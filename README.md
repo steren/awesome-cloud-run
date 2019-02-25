@@ -1,5 +1,8 @@
-# awesome-cloudrun
-Link of awesome things built with Cloud Run
+# Awesome Cloud Run
+
+> A curated list of resources about all things Cloud Run.
+
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.*
 
 ## Fun
 
