@@ -12,7 +12,7 @@
 
 ## Containers
 
-## Language samples
+### Language samples
 
 * [Node.js](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-nodejs)
 * [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
