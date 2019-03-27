@@ -12,6 +12,24 @@
 
 ## Containers
 
+## Language samples
+
+* [Node.js](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-nodejs)
+* [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
+* [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python)
+* [Ruby](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-ruby)
+* [PHP](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-php)
+* [Kotlin](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-kotlin)
+* [Java SpringBoot](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-java)
+* [Shell](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-shell)
+* [Scala](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-scala)
+* [Clojure](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-clojure)
+* [Dart](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-dart)
+* [Elixir](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-elixir)
+* [Haskell](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-haskell)
+* [Rust](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust)
+* [Swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift)
+
 ### Useful microservices
 
 * [as-a-service/pdf](https://github.com/as-a-service/pdf): Transform Word documents to PDF.
