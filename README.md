@@ -4,7 +4,7 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.*
 
-## Official
+## Documentation and reference
 
 * ["Build and Deploy" Quickstart](https://cloud.google.com/run/docs/quickstarts/build-and-deploy): many samples and Dockerfiles.
 * [Official Documentation](https://cloud.google.com/run/docs/)
