@@ -9,8 +9,14 @@
 * ["Build and Deploy" Quickstart](https://cloud.google.com/run/docs/quickstarts/build-and-deploy): many samples and Dockerfiles.
 * [Official Documentation](https://cloud.google.com/run/docs/)
 
+## Building containers
 
-## Containers
+* [Docker](https://docs.docker.com/engine/reference/commandline/build/): `docker build`
+* [Google Cloud Build](https://cloud.google.com/cloud-build/): pay-per-use cloud-based docker and custom builds
+* [Jib](https://github.com/GoogleContainerTools/jib): Build container images for your Java applications.
+* [Buildpacks](https://buildpacks.io/): `pack build` to transform apps in popular languages to container images.
+
+## Sample containers
 
 ### Language samples
 
@@ -41,10 +47,3 @@
 ### Fun
 
 * [matti/http-doom](https://github.com/matti/http-doom): Play DOOM over HTTP
-
-## Building containers
-
-* [Docker](https://docs.docker.com/engine/reference/commandline/build/): `docker build`
-* [Google Cloud Build](https://cloud.google.com/cloud-build/): pay-per-use cloud-based docker and custom builds
-* [Jib](https://github.com/GoogleContainerTools/jib): Build container images for your Java applications.
-* [Buildpacks](https://buildpacks.io/): `pack build` to transform apps in popular languages to container images.
