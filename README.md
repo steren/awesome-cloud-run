@@ -12,7 +12,7 @@
 
 ## Building containers
 
-* [Docker](https://docs.docker.com/engine/reference/commandline/build/): `docker build`
+* [Docker](https://docs.docker.com/engine/reference/commandline/build/): `docker build . --tag gcr.io/[PROJECT-ID]/[IMAGE]` then `docker push gcr.io/[PROJECT-ID]/[IMAGE]`
 * [Google Cloud Build](https://cloud.google.com/cloud-build/): pay-per-use cloud-based docker and custom builds
 * [Jib](https://github.com/GoogleContainerTools/jib): Build container images for your Java applications.
 * [Buildpacks](https://buildpacks.io/): `pack build` to transform apps in popular languages to container images.
