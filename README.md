@@ -49,3 +49,8 @@
 ### Fun
 
 * [matti/http-doom](https://github.com/matti/http-doom): Play DOOM over HTTP
+
+
+## Tools
+
+* [kelseyhightower/konfig](https://github.com/kelseyhightower/konfig) to use Kubernetes configmaps and secrets with Cloud Run
