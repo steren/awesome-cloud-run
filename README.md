@@ -1,4 +1,4 @@
-# Awesome Cloud Run
+# Awesome Cloud Run [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of resources about all things Cloud Run.
 
