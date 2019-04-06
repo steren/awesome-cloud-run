@@ -21,6 +21,7 @@
 
 ### Language samples
 
+* [Static files](https://github.com/steren/static)
 * [Node.js](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-nodejs)
   * and [`@google-cloud/functions-framework`](https://github.com/GoogleCloudPlatform/functions-framework-nodejs) for functions
 * [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
