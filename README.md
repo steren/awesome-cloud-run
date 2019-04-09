@@ -18,6 +18,11 @@
 * [Jib](https://github.com/GoogleContainerTools/jib): Build container images for your Java applications.
 * [Buildpacks](https://buildpacks.io/): `pack build` to transform apps in popular languages to container images.
 
+
+## Tools
+
+* [kelseyhightower/konfig](https://github.com/kelseyhightower/konfig) to use Kubernetes configmaps and secrets with Cloud Run
+
 ## Sample containers
 
 ### Language samples
@@ -51,8 +56,4 @@
 ### Fun
 
 * [matti/http-doom](https://github.com/matti/http-doom): Play DOOM over HTTP
-* [Python 1.x on Cloud Run](https://dev.to/di/ministry-of-silly-runtimes-vintage-python-on-cloud-run-3b9d))
-
-## Tools
-
-* [kelseyhightower/konfig](https://github.com/kelseyhightower/konfig) to use Kubernetes configmaps and secrets with Cloud Run
+* [Python 1.x on Cloud Run](https://dev.to/di/ministry-of-silly-runtimes-vintage-python-on-cloud-run-3b9d)
