@@ -51,7 +51,7 @@
 ### Fun
 
 * [matti/http-doom](https://github.com/matti/http-doom): Play DOOM over HTTP
-
+* [Python 1.x on Cloud Run](https://dev.to/di/ministry-of-silly-runtimes-vintage-python-on-cloud-run-3b9d))
 
 ## Tools
 
