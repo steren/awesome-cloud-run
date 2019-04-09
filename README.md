@@ -48,6 +48,8 @@
 
 ### Useful microservices
 
+* [ahmetb/gcr-custom-domains](https://github.com/ahmetb/gcr-custom-domains): Expose gcr.io container
+  registries on your custom domain names.
 * [as-a-service/pdf](https://github.com/as-a-service/pdf): Transform Word documents to PDF.
 * [as-a-service/screenshot](https://github.com/as-a-service/screenshot): Take screenshots of webpages.
 * [as-a-service/render](https://github.com/as-a-service/render): Render a Blender 3D scene with custom text.
