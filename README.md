@@ -6,10 +6,16 @@
 
 ## Documentation and reference
 
-* [Product page](https://cloud.google.com/run/) and [animation video](https://www.youtube.com/watch?v=gx8VTa1c8DA). 
+* [Product page](https://cloud.google.com/run/) and [animation video](https://www.youtube.com/watch?v=gx8VTa1c8DA).
 * [Official Documentation](https://cloud.google.com/run/docs/)
   * [Quickstart](https://cloud.google.com/run/docs/quickstarts/build-and-deploy) (includes many samples and Dockerfiles)
   * [Sending Pub/Sub events to Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub)
+
+### Tutorials
+
+* [Hello Cloud Run Codelab](https://codelabs.developers.google.com/codelabs/cloud-run-hello) (use your own GCP account)
+* [Hello Cloud Run Qwiklab](https://google.qwiklabs.com/focuses/5161?parent=catalog) (use temp Qwiklabs resources)
+
 
 ## Building containers
 
@@ -48,18 +54,13 @@
 
 ### Useful microservices
 
-* [ahmetb/gcr-custom-domains](https://github.com/ahmetb/gcr-custom-domains): Expose gcr.io container
-  registries on your custom domain names.
 * [as-a-service/pdf](https://github.com/as-a-service/pdf): Transform Word documents to PDF.
 * [as-a-service/screenshot](https://github.com/as-a-service/screenshot): Take screenshots of webpages.
 * [as-a-service/render](https://github.com/as-a-service/render): Render a Blender 3D scene with custom text.
 * [as-a-service/meme](https://github.com/as-a-service/meme): Generate meme images from a base image and text.
 * [as-a-service/trace](https://github.com/as-a-service/trace): Transform pixel images to SVG.
-
-### Codelabs
-
-* [Hello Cloud Run Codelab](https://codelabs.developers.google.com/codelabs/cloud-run-hello) (use your own GCP account)
-* [Hello Cloud Run Qwiklab](https://google.qwiklabs.com/focuses/5161?parent=catalog) (use temp Qwiklabs resources)
+* [ahmetb/gcr-custom-domains](https://github.com/ahmetb/gcr-custom-domains): Expose gcr.io container
+  registries on your custom domain names.
 
 ### Fun
 
