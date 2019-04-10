@@ -56,6 +56,11 @@
 * [as-a-service/meme](https://github.com/as-a-service/meme): Generate meme images from a base image and text.
 * [as-a-service/trace](https://github.com/as-a-service/trace): Transform pixel images to SVG.
 
+### Codelabs
+
+* [Hello Cloud Run Codelab](https://codelabs.developers.google.com/codelabs/cloud-run-hello) (use your own GCP account)
+* [Hello Cloud Run Qwiklab](https://google.qwiklabs.com/focuses/5161?parent=catalog) (use temp Qwiklabs resources)
+
 ### Fun
 
 * [matti/http-doom](https://github.com/matti/http-doom): Play DOOM over HTTP
