@@ -61,6 +61,7 @@
 * [as-a-service/trace](https://github.com/as-a-service/trace): Transform pixel images to SVG.
 * [ahmetb/gcr-custom-domains](https://github.com/ahmetb/gcr-custom-domains): Expose gcr.io container
   registries on your custom domain names.
+* [rprakashg/plantuml-image-converter](https://github.com/rprakashg/plantuml-image-converter): UML diagrams to images
 
 ### Fun
 
