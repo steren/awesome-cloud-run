@@ -30,6 +30,11 @@
 
 * [kelseyhightower/konfig](https://github.com/kelseyhightower/konfig) to use Kubernetes configmaps and secrets with Cloud Run
 
+### CI/CD
+
+* [CI/CD using Cloud Build](https://cloud.google.com/run/docs/continuous-deployment)
+* [CI/CD using Semaphore](https://thenewstack.io/a-first-look-at-google-cloud-run/)
+
 ## Sample containers
 
 ### Language samples
