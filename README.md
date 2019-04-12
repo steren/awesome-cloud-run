@@ -47,7 +47,9 @@
 * [Ruby](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-ruby)
 * [PHP](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-php)
 * [Kotlin](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-kotlin)
-* [Java SpringBoot](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-java)
+* Java:
+  * [SpringBoot](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-java)
+  * [micronaut](https://github.com/jamesward/hello-micronaut/)
 * [Shell](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-shell)
 * [Scala](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-scala)
 * [Clojure](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-clojure)
