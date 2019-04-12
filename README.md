@@ -23,8 +23,8 @@
 * [Google Cloud Build](https://cloud.google.com/cloud-build/): pay-per-use cloud-based docker and custom builds
 * [Buildpacks](https://buildpacks.io/): `pack build` to transform apps in popular languages to container images.
 * Java: 
- * [Jib](https://github.com/GoogleContainerTools/jib): Build container images for your Java applications.
- * [Quarkus](https://medium.com/@alexismp/deploying-a-quarkus-app-to-google-cloud-run-c4a8ca3be526): compile Java apps to native code in containers
+  * [Jib](https://github.com/GoogleContainerTools/jib): Build container images for your Java applications.
+  * [Quarkus](https://medium.com/@alexismp/deploying-a-quarkus-app-to-google-cloud-run-c4a8ca3be526): compile Java apps to native code in containers
 
 ## Tools
 
