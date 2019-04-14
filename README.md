@@ -66,6 +66,11 @@
 * [Rust](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust)
 * [Swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift)
 
+### Running popular software
+
+* [Hugo blog](https://blog.mrtrustor.net/post/making-this-blog-with-cloud-run/)
+* [Apache NiFi workflows](https://medium.com/@pierre.villard/deploying-apache-nifi-workflows-on-google-cloud-run-8c0c988354f1)
+
 ### Useful microservices
 
 * [pdf](https://github.com/as-a-service/pdf): Transform Word documents to PDF.
