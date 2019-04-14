@@ -4,12 +4,16 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.*
 
-## Documentation and reference
+## Documentation
 
 * [Product page](https://cloud.google.com/run/) and [animation video](https://www.youtube.com/watch?v=gx8VTa1c8DA).
 * [Official Documentation](https://cloud.google.com/run/docs/)
   * [Quickstart](https://cloud.google.com/run/docs/quickstarts/build-and-deploy) (includes many samples and Dockerfiles)
   * [Sending Pub/Sub events to Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub)
+
+## Help
+
+* Use the [`google-cloud-run` tag on StackOverflow](https://stackoverflow.com/questions/tagged/google-cloud-run)
 
 ### Tutorials
 
