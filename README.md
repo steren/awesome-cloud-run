@@ -36,7 +36,7 @@
 * [using Semaphore](https://thenewstack.io/a-first-look-at-google-cloud-run/)
 * [using GitLab](https://viggy28.dev/article/cloudrun-cicd/)
 
-## Sample containers
+## Containers
 
 ### Language samples
 
