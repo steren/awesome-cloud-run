@@ -1,24 +1,26 @@
 # Awesome Cloud Run [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources about all things Cloud Run.
+> A curated list of resources about all things [Cloud Run](https://cloud.google.com/run/).
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.*
 
 ## Documentation
 
-* [Product page](https://cloud.google.com/run/) and [animation video](https://www.youtube.com/watch?v=gx8VTa1c8DA).
+### How to
+
 * [Official Documentation](https://cloud.google.com/run/docs/)
-  * [Quickstart](https://cloud.google.com/run/docs/quickstarts/build-and-deploy) (includes many samples and Dockerfiles)
-  * [Sending Pub/Sub events to Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub)
-
-## Help
-
-* Use the [`google-cloud-run` tag on StackOverflow](https://stackoverflow.com/questions/tagged/google-cloud-run)
+* [Quickstart](https://cloud.google.com/run/docs/quickstarts/build-and-deploy) (includes many samples and Dockerfiles)
+* [Sending Pub/Sub events to Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub)
 
 ### Tutorials
 
 * [Hello Cloud Run Codelab](https://codelabs.developers.google.com/codelabs/cloud-run-hello) (use your own GCP account)
 * [Hello Cloud Run Qwiklab](https://google.qwiklabs.com/focuses/5161?parent=catalog) (use temp Qwiklabs resources)
+
+### Help
+
+* [Troubleshooting guide](https://cloud.google.com/run/docs/troubleshooting)
+* Use the [`google-cloud-run` tag on StackOverflow](https://stackoverflow.com/questions/tagged/google-cloud-run)
 
 
 ## Building containers
