@@ -70,6 +70,10 @@
 
 * [Hugo blog](https://blog.mrtrustor.net/post/making-this-blog-with-cloud-run/)
 * [Apache NiFi workflows](https://medium.com/@pierre.villard/deploying-apache-nifi-workflows-on-google-cloud-run-8c0c988354f1)
+* Samples and tutorials with the [Micronaut](https://micronaut.io/) framework
+  * [Micronaut with Java](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run)
+  * [Micronaut with Java and GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal)
+  * [Launching/installing a Micronaut app with Cloud Shell](https://github.com/jamesward/hello-micronaut/)
 
 ### Useful microservices
 
