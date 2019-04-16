@@ -27,9 +27,7 @@
 * [Docker](https://docs.docker.com/engine/reference/commandline/build/): `docker build . --tag gcr.io/[PROJECT-ID]/[IMAGE]` then `docker push gcr.io/[PROJECT-ID]/[IMAGE]`
 * [Google Cloud Build](https://cloud.google.com/cloud-build/): pay-per-use cloud-based docker and custom builds
 * [Buildpacks](https://buildpacks.io/): `pack build` to transform apps in popular languages to container images.
-* Java: 
-  * [Jib](https://github.com/GoogleContainerTools/jib): Build container images for your Java applications.
-  * [Quarkus](https://medium.com/@alexismp/deploying-a-quarkus-app-to-google-cloud-run-c4a8ca3be526): compile Java apps to native code in containers
+* Java [Jib](https://github.com/GoogleContainerTools/jib): Build container images for your Java applications.
 
 ## Tools
 
@@ -64,7 +62,9 @@
   * [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run)
   * [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal)
   * [Launching/installing a Micronaut app with Cloud Shell](https://github.com/jamesward/hello-micronaut/)
-  * [Quarkus with GraalVM](https://github.com/gunnarmorling/quarkus-pdf-extract) (extracting text from PDF files)
+  * Quarkus:
+    * [Quarkus tutorial](https://medium.com/@alexismp/deploying-a-quarkus-app-to-google-cloud-run-c4a8ca3be526)
+    * [Quarkus with GraalVM](https://github.com/gunnarmorling/quarkus-pdf-extract) (extracting text from PDF files)
 * [Shell](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-shell)
 * [Scala](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-scala)
 * [Clojure](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-clojure)
