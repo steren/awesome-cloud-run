@@ -42,6 +42,11 @@
 * [using Semaphore](https://thenewstack.io/a-first-look-at-google-cloud-run/)
 * [using GitLab](https://viggy28.dev/article/cloudrun-cicd/)
 
+### Integartions
+
+* [Firebase Hosting](https://firebase.google.com/docs/hosting/cloud-run): Serve static file and put Cloud Run services behind global CDN.
+  
+
 ## Containers
 
 ### Language samples
@@ -82,10 +87,6 @@
   registries on your custom domain names.
 * [plantuml-image-converter](https://github.com/rprakashg/plantuml-image-converter): UML diagrams to images
 
-## Integartions
-
-* [firebase](https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html): Firebase Hosting for Cloud Run
-  
 ### Fun
 
 * [DOOM on Cloud Run](https://github.com/matti/http-doom): Play DOOM over HTTP
