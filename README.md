@@ -9,11 +9,11 @@
 ### How to
 
 * [Official Documentation](https://cloud.google.com/run/docs/)
-* [Quickstart](https://cloud.google.com/run/docs/quickstarts/build-and-deploy) (includes many samples and Dockerfiles)
 * [Sending Pub/Sub events to Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub)
 
 ### Tutorials
 
+* [Build and Deploy Quickstart](https://cloud.google.com/run/docs/quickstarts/build-and-deploy) (includes many samples and Dockerfiles)
 * [Hello Cloud Run Codelab](https://codelabs.developers.google.com/codelabs/cloud-run-hello) (use your own GCP account)
 * [Hello Cloud Run Qwiklab](https://google.qwiklabs.com/focuses/5161?parent=catalog) (use temp Qwiklabs resources)
 
@@ -21,7 +21,6 @@
 
 * [Troubleshooting guide](https://cloud.google.com/run/docs/troubleshooting)
 * Use the [`google-cloud-run` tag on StackOverflow](https://stackoverflow.com/questions/tagged/google-cloud-run)
-
 
 ## Building containers
 
