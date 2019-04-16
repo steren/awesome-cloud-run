@@ -6,9 +6,8 @@
 
 ## Documentation
 
-### How to
-
 * [Official Documentation](https://cloud.google.com/run/docs/)
+* [Community driven FAQ](https://github.com/ahmetb/cloud-run-faq#readme)
 * [Sending Pub/Sub events to Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub)
 
 ### Quickstarts
