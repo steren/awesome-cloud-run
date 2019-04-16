@@ -11,7 +11,7 @@
 * [Official Documentation](https://cloud.google.com/run/docs/)
 * [Sending Pub/Sub events to Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub)
 
-### Tutorials
+### Quickstarts
 
 * [Build and Deploy Quickstart](https://cloud.google.com/run/docs/quickstarts/build-and-deploy) (includes many samples and Dockerfiles)
 * [Hello Cloud Run Codelab](https://codelabs.developers.google.com/codelabs/cloud-run-hello) (use your own GCP account)
