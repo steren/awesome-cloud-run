@@ -31,6 +31,7 @@
 ## Tools
 
 * [kelseyhightower/konfig](https://github.com/kelseyhightower/konfig) to use Kubernetes configmaps and secrets with Cloud Run
+* [GCR Cleaner](https://github.com/sethvargo/gcr-cleaner): Delete untagged image refs in Google Container Registry, as a service
 
 ### CI/CD
 
