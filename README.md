@@ -37,6 +37,7 @@
 * [using Cloud Build](https://cloud.google.com/run/docs/continuous-deployment)
 * [using Semaphore](https://thenewstack.io/a-first-look-at-google-cloud-run/)
 * [using GitLab](https://viggy28.dev/article/cloudrun-cicd/)
+* [using Travis CI](https://github.com/ahmetb/cloud-run-travisci)
 
 ### Integrations
 
