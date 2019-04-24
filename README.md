@@ -19,6 +19,7 @@
 
 * [Deploying a web app](https://thenewstack.io/tutorial-deploying-a-web-application-on-google-cloud-run/) by *The New Stack*
 * [Sending Pub/Sub events to Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub) by *Google Cloud*
+* [Deploying a Rust REST API with Diesel, Rocket, and MySQL on Google Cloud Run](https://cprimozic.net/blog/rust-rocket-cloud-run/)
 
 ### Help
 
@@ -49,8 +50,8 @@
 ### Integrations
 
 * [Firebase Hosting](https://firebase.google.com/docs/hosting/cloud-run): Static files, advanced path-based routing, and global CDN for Cloud Run
-* [Twilio](https://github.com/amygdala/code-snippets/tree/master/cloud_run/twilio_vision): Create a TwiML app to trigger a Cloud Run service from SMS message. 
-  
+* [Twilio](https://github.com/amygdala/code-snippets/tree/master/cloud_run/twilio_vision): Create a TwiML app to trigger a Cloud Run service from SMS message.
+
 
 ## Containers
 
