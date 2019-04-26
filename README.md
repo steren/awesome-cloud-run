@@ -19,7 +19,10 @@
 
 * [Deploying a web app](https://thenewstack.io/tutorial-deploying-a-web-application-on-google-cloud-run/) by *The New Stack*
 * [Sending Pub/Sub events to Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub) by *Google Cloud*
-* [Deploying a Rust REST API with Diesel, Rocket, and MySQL on Google Cloud Run](https://cprimozic.net/blog/rust-rocket-cloud-run/)
+* [Deploying a Rust REST API with Diesel, Rocket, and MySQL](https://cprimozic.net/blog/rust-rocket-cloud-run/)
+* Private microservices:
+  * [Making requests with a Service Account](https://medium.com/@zdenulo/making-requests-to-cloud-run-with-the-service-account-620014dc1486)
+  * [Service-to-service authentication](https://cloud.google.com/run/docs/securing/authenticating#service-to-service)
 
 ### Help
 
