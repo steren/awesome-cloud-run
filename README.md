@@ -84,7 +84,7 @@
 * [Elixir](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-elixir)
 * [Haskell](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-haskell)
 * [Rust](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust)
-* [Swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift)
+* Swift: [helloworld-swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift) and [SwiftCloudRun](https://github.com/alfianlosari/SwiftCloudRun)
 
 ### Running popular software
 
