@@ -19,6 +19,7 @@
 
 ### Tutorials
 
+* [Nuxt.js and Firebase Hosting](https://www.youtube.com/watch?v=3OP-q55hOUI) (video)
 * [Node.js web app](https://thenewstack.io/tutorial-deploying-a-web-application-on-google-cloud-run/) by *The New Stack*
 * [Java web app](https://medium.com/@pravanjan.palai/run-your-web-app-in-google-cloud-run-e2627d29aa17)
 * [Sending Pub/Sub events to Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub) by *Google Cloud*
