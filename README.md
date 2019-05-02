@@ -44,7 +44,6 @@
 
 ## Tools
 
-* [`cloud-run-button`](https://github.com/jamesward/cloud-run-button): add a "Deploy to Cloud Run" button on your `README.md`
 * Secrets:
   * [Berglas](https://github.com/GoogleCloudPlatform/berglas) unofficial tool to manage secrets on Google Cloud
   * [konfig](https://github.com/kelseyhightower/konfig) to use Kubernetes configmaps and secrets with Cloud Run
