@@ -19,16 +19,24 @@
 
 ### Tutorials
 
+Popular stacks:
+
 * [Nuxt.js and Firebase Hosting](https://www.youtube.com/watch?v=3OP-q55hOUI) (video)
 * [Node.js web app](https://thenewstack.io/tutorial-deploying-a-web-application-on-google-cloud-run/) by *The New Stack*
 * [Java web app](https://medium.com/@pravanjan.palai/run-your-web-app-in-google-cloud-run-e2627d29aa17)
-* [Sending Pub/Sub events to Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub) by *Google Cloud*
 * [Rust REST API with Diesel, Rocket, and MySQL](https://cprimozic.net/blog/rust-rocket-cloud-run/)
 * [Deploy Swift Hello World in 5 minutes](https://medium.com/google-cloud/deploy-swift-http-serverless-container-to-google-cloud-run-in-5-minutes-alfian-losari-98389d34d4b8)
 * [Static website in 5 minutes using nginx](https://medium.com/@aconchillo/google-cloud-run-or-how-to-run-your-static-website-in-5-minutes-and-much-more-dbe8f2804395).
-* Private microservices:
-  * [Making requests with a Service Account](https://medium.com/@zdenulo/making-requests-to-cloud-run-with-the-service-account-620014dc1486)
-  * [Service-to-service authentication](https://cloud.google.com/run/docs/securing/authenticating#service-to-service)
+
+Private microservices:
+
+* [Making requests with a Service Account](https://medium.com/@zdenulo/making-requests-to-cloud-run-with-the-service-account-620014dc1486)
+* [Service-to-service authentication](https://cloud.google.com/run/docs/securing/authenticating#service-to-service)
+
+Async and events:
+
+* [Sending Pub/Sub events to Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub) by *Google Cloud*
+* [Using Cloud Run service as async worker](https://medium.com/@zdenulo/using-cloud-run-service-as-async-worker-cf5b1b3fd226)
 
 ### Help
 
@@ -92,7 +100,7 @@
 * [Rust](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust)
 * Swift: [helloworld-swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift) and [SwiftCloudRun](https://github.com/alfianlosari/SwiftCloudRun)
 
-### Running popular software
+### Running popular stacks
 
 * [Hugo blog](https://blog.mrtrustor.net/post/making-this-blog-with-cloud-run/)
 * [Apache NiFi workflows](https://medium.com/@pierre.villard/deploying-apache-nifi-workflows-on-google-cloud-run-8c0c988354f1)
