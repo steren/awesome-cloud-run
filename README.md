@@ -19,6 +19,7 @@
 
 ### Articles
 
+* [Google Cloud Run — Deploying Containerized Applications to a Serverless Environment ⚡](https://blog.mercurie.ng/google-cloud-run-deploying-containerized-application-to-serverless-enviroment)
 * [The best features of Google Cloud Run](https://medium.com/weareservian/3-best-features-of-google-cloud-run-546e367242ea)
 
 ### Tutorials
