@@ -43,6 +43,11 @@ Async and events:
 * [Sending Pub/Sub events to Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub) by *Google Cloud*
 * [Using Cloud Run service as async worker](https://medium.com/@zdenulo/using-cloud-run-service-as-async-worker-cf5b1b3fd226)
 
+Local development:
+
+* [Using Docker](https://cloud.google.com/run/docs/testing/local)
+* [Using Docker Compose](https://cloud.google.com/community/tutorials/cloud-run-local-dev-docker-compose)
+
 ### Help
 
 * [Troubleshooting guide](https://cloud.google.com/run/docs/troubleshooting)
