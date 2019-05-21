@@ -115,7 +115,7 @@ Async and events:
 ### Useful microservices
 
 * [pdf](https://github.com/as-a-service/pdf): Transform Word documents to PDF.
-* [screenshot](https://github.com/as-a-service/screenshot): Take screenshots of webpages.
+* [screenshot](https://github.com/as-a-service/screenshot): Take screenshots of webpages using Chromium via puppeteer
 * [render](https://github.com/as-a-service/render): Render a Blender 3D scene with custom text.
 * [meme](https://github.com/as-a-service/meme): Generate meme images from a base image and text.
 * [trace](https://github.com/as-a-service/trace): Transform pixel images to SVG.
