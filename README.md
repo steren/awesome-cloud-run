@@ -116,6 +116,7 @@
 * [Haskell](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-haskell)
 * [Rust](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust)
 * Swift: [helloworld-swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift) and [SwiftCloudRun](https://github.com/alfianlosari/SwiftCloudRun)
+* [R](https://github.com/MarkEdmondson1234/cloudRunR)
 
 ### Running popular stacks
 
