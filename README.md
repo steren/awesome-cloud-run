@@ -4,7 +4,10 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.*
 
-[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/steren/awesome-cloudrun.git)
+<p align="center">
+<img src="google-cloud-run-hexagon.svg" width="256px">
+</p>
+
 
 ## Documentation
 
@@ -141,3 +144,6 @@
 * [DOOM on Cloud Run](https://github.com/matti/http-doom): Play DOOM over HTTP
 * [Python 1.x on Cloud Run](https://dev.to/di/ministry-of-silly-runtimes-vintage-python-on-cloud-run-3b9d)
 * [Fortran 90 on Cloud Run](https://github.com/zachmccormick/fortran-cloudrun)
+
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/steren/awesome-cloudrun.git)
+
