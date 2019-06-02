@@ -8,6 +8,7 @@
 <img src="google-cloud-run-hexagon.svg" width="256px">
 </p>
 
+Short link to product page: https://cloud.run
 
 ## Documentation
 
