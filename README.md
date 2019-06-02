@@ -87,6 +87,7 @@ Short link to product page: https://cloud.run
 * [Using Semaphore](https://semaphoreci.com/blog/google-cloud-run-cicd-first-look)
 * [Using GitLab](https://viggy28.dev/article/cloudrun-cicd/)
 * [Using Travis CI](https://github.com/ahmetb/cloud-run-travisci)
+* [Using Bitbucket Pipelines](https://medium.com/@puuga/dev-story-deploy-to-gcp-cloud-run-with-bitbucket-pipelines-4fef8f2ece27)
 
 ### Integrations
 
