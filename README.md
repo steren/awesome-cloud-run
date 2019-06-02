@@ -41,6 +41,10 @@ Short link to product page: https://cloud.run
   * [Serverless Server-side Swift using Google Cloud Run](https://medium.com/@cweinberger/serverless-server-side-swift-using-google-cloud-run-2b314ce74293)
 * [Static website in 5 minutes using nginx](https://medium.com/@aconchillo/google-cloud-run-or-how-to-run-your-static-website-in-5-minutes-and-much-more-dbe8f2804395).
 * [GraphQL API](https://blog.shanelee.name/2019/05/17/graphql-api-google-cloud-run/)
+* [Hugo blog](https://blog.mrtrustor.net/post/making-this-blog-with-cloud-run/)
+* [Apache NiFi workflows](https://medium.com/@pierre.villard/deploying-apache-nifi-workflows-on-google-cloud-run-8c0c988354f1)
+* [Camunda BPM](https://medium.com/@ruslanfg/run-camunda-bpm-on-google-cloud-run-ecc59dc9fbc4)
+* [Webmention](https://bitworking.org/news/2019/05/webmention-on-google-cloud-run)
 
 #### Private microservices
 
@@ -123,13 +127,6 @@ Short link to product page: https://cloud.run
 * [Rust](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust)
 * Swift: [helloworld-swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift) and [SwiftCloudRun](https://github.com/alfianlosari/SwiftCloudRun)
 * [R](https://github.com/MarkEdmondson1234/cloudRunR)
-
-### Running popular stacks
-
-* [Hugo blog](https://blog.mrtrustor.net/post/making-this-blog-with-cloud-run/)
-* [Apache NiFi workflows](https://medium.com/@pierre.villard/deploying-apache-nifi-workflows-on-google-cloud-run-8c0c988354f1)
-* [Camunda BPM](https://medium.com/@ruslanfg/run-camunda-bpm-on-google-cloud-run-ecc59dc9fbc4)
-* [Webmention](https://bitworking.org/news/2019/05/webmention-on-google-cloud-run)
 
 ### Useful microservices
 
