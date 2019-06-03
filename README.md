@@ -97,6 +97,7 @@ Short link to product page: https://cloud.run
 
 * [Firebase Hosting](https://firebase.google.com/docs/hosting/cloud-run): Static files, advanced path-based routing, and global CDN for Cloud Run
 * [Twilio](https://github.com/amygdala/code-snippets/tree/master/cloud_run/twilio_vision): Create a TwiML app to trigger a Cloud Run service from SMS message.
+* [Flic buttons](https://github.com/mchmarny/buttons): How to use Flic buttons with Cloud Run and Cloud PubSub
 
 ## Containers
 
