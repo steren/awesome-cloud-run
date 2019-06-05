@@ -58,7 +58,7 @@ Short link to product page: https://cloud.run
 * [Cloud Run as an internal async worker](https://medium.com/google-cloud/cloud-run-as-an-internal-async-worker-480a772686e)
 * [Using Cloud Run as a webhook for Actions on Google](https://medium.com/google-developers/using-cloud-run-as-a-webhook-for-actions-on-google-792b58694651?linkId=67861967)
 
-## Security
+#### Security
 
 * [Using per service Identity and encrypting secrets](https://www.jhanley.com/google-cloud-run-identity/)
 
