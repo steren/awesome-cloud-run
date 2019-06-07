@@ -10,6 +10,8 @@
 
 Short link to product page: https://cloud.run
 
+Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackOverflow](https://stackoverflow.com/questions/tagged/google-cloud-run)
+
 ## Documentation
 
 * [Official Documentation](https://cloud.google.com/run/docs/)
