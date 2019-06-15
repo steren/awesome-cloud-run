@@ -148,6 +148,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [gcr-custom-domains](https://github.com/ahmetb/gcr-custom-domains): Expose gcr.io container
   registries on your custom domain names.
 * [plantuml-image-converter](https://github.com/rprakashg/plantuml-image-converter): UML diagrams to images
+* [.xlsx parser](https://gitlab.com/souldeux/sdx-xlsx-go)
 
 ### Fun
 
