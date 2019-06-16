@@ -50,6 +50,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Camunda BPM](https://medium.com/@ruslanfg/run-camunda-bpm-on-google-cloud-run-ecc59dc9fbc4)
 * [Webmention](https://bitworking.org/news/2019/05/webmention-on-google-cloud-run)
 * [C# backend (for a Unity game)](https://medium.com/firebase-developers/how-to-write-a-c-backend-for-a-unity-game-using-firebase-and-googles-cloud-run-adebf79a57f)
+* [Wordpress](https://medium.com/@salvopappalardo/how-to-install-a-wordpress-site-on-google-cloud-run-828bdc0d0e96) 
 
 #### Private microservices
 
