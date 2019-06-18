@@ -26,9 +26,10 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 ### Articles
 
 * [Cloud Run: Bringing serverless to containers](https://cloud.google.com/blog/products/serverless/cloud-run-bringing-serverless-to-containers)
-* [The best features of Google Cloud Run](https://medium.com/weareservian/3-best-features-of-google-cloud-run-546e367242ea)
 * [Google Cloud Run — Deploying Containerized Applications to a Serverless Environment ⚡](https://medium.com/@timtech4u/deploy-serverless-container-google-cloud-run-68d716af7716)
 * [Powerful serverless with Cloud Run](https://medium.com/masmovil-engineering/powerful-serverless-with-cloud-run-b314cd5d73c1)
+* [The best features of Google Cloud Run](https://medium.com/weareservian/3-best-features-of-google-cloud-run-546e367242ea)
+* [3 cool Cloud Run features that developers love](https://cloud.google.com/blog/products/serverless/3-cool-cloud-run-features-that-developers-love-and-that-you-will-too)
 
 ### Tutorials
 
