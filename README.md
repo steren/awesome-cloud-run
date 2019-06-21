@@ -47,7 +47,10 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * [Deploy Swift Hello World in 5 minutes](https://medium.com/google-cloud/deploy-swift-http-serverless-container-to-google-cloud-run-in-5-minutes-alfian-losari-98389d34d4b8)
   * [Serverless Server-side Swift using Google Cloud Run](https://medium.com/@cweinberger/serverless-server-side-swift-using-google-cloud-run-2b314ce74293)
 * [Elixir](https://www.youtube.com/watch?v=6Jo8WlWq-Fw) (video)
-* [Static website in 5 minutes using nginx](https://medium.com/@aconchillo/google-cloud-run-or-how-to-run-your-static-website-in-5-minutes-and-much-more-dbe8f2804395).
+* Static websites:
+  * [Static website in 5 minutes using nginx](https://medium.com/@aconchillo/google-cloud-run-or-how-to-run-your-static-website-in-5-minutes-and-much-more-dbe8f2804395).
+  * [How to Run a Static Site On Google Cloud Run?](https://medium.com/@maurycek/how-to-run-a-static-site-on-google-cloud-run-345713ca4b40)
+  * ... but [Firebase Hosting](https://firebase.google.com/docs/hosting) is likely a better option
 * [GraphQL API](https://blog.shanelee.name/2019/05/17/graphql-api-google-cloud-run/)
 * [Hugo blog](https://blog.mrtrustor.net/post/making-this-blog-with-cloud-run/)
 * [Apache NiFi workflows](https://medium.com/@pierre.villard/deploying-apache-nifi-workflows-on-google-cloud-run-8c0c988354f1)
