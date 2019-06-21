@@ -46,6 +46,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * Swift:
   * [Deploy Swift Hello World in 5 minutes](https://medium.com/google-cloud/deploy-swift-http-serverless-container-to-google-cloud-run-in-5-minutes-alfian-losari-98389d34d4b8)
   * [Serverless Server-side Swift using Google Cloud Run](https://medium.com/@cweinberger/serverless-server-side-swift-using-google-cloud-run-2b314ce74293)
+* [Elixir](https://www.youtube.com/watch?v=6Jo8WlWq-Fw) (video)
 * [Static website in 5 minutes using nginx](https://medium.com/@aconchillo/google-cloud-run-or-how-to-run-your-static-website-in-5-minutes-and-much-more-dbe8f2804395).
 * [GraphQL API](https://blog.shanelee.name/2019/05/17/graphql-api-google-cloud-run/)
 * [Hugo blog](https://blog.mrtrustor.net/post/making-this-blog-with-cloud-run/)
