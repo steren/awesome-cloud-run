@@ -154,6 +154,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [render](https://github.com/as-a-service/render): Render a Blender 3D scene with custom text.
 * [meme](https://github.com/as-a-service/meme): Generate meme images from a base image and text.
 * [trace](https://github.com/as-a-service/trace): Transform pixel images to SVG.
+* [inkscape](https://github.com/as-a-service/inkscape): Transform SVG images to PNG.
 * [gcr-custom-domains](https://github.com/ahmetb/gcr-custom-domains): Expose gcr.io container
   registries on your custom domain names.
 * [plantuml-image-converter](https://github.com/rprakashg/plantuml-image-converter): UML diagrams to images
