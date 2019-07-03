@@ -75,6 +75,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 #### Security
 
+* [Help! I forgot to click "Allow unauthenticated invocations"](https://dev.to/googlecloud/help-i-forgot-to-click-allow-unauthenticated-invocations-on-google-cloud-run-2hoj)
 * [Using per service Identity and encrypting secrets](https://www.jhanley.com/google-cloud-run-identity/)
 
 #### Local development
