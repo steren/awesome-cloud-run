@@ -89,6 +89,13 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Troubleshooting guide](https://cloud.google.com/run/docs/troubleshooting)
 * Use the [`google-cloud-run` tag on StackOverflow](https://stackoverflow.com/questions/tagged/google-cloud-run)
 
+## Meetups
+
+### Meetup material
+
+* Cloud Run [hexagon logo](https://github.com/steren/awesome-cloudrun/blob/master/google-cloud-run-hexagon.svg)
+* Cloud Run Club [slide deck](https://docs.google.com/presentation/d/1TS0JTPNaqvyTMUjM7TAKaau0swyqpxonFmk1gww3sw0/edit?usp=sharing) (feel free to re-use it!)
+
 ## Building containers
 
 * [Docker](https://docs.docker.com/engine/reference/commandline/build/): `docker build . --tag gcr.io/[PROJECT-ID]/[IMAGE]` then `docker push gcr.io/[PROJECT-ID]/[IMAGE]`
