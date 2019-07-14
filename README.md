@@ -185,3 +185,6 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 [![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/steren/awesome-cloudrun.git)
 
+## Cloud Run API
+
+* 📰 [Understanding the APIs](https://www.jhanley.com/google-cloud-run-deep-dive-understanding-the-apis-part-1/)
