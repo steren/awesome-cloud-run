@@ -114,6 +114,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 * Using Cloud Build:
   * [Official docs](https://cloud.google.com/run/docs/continuous-deployment)
+  * [Awesome Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild)
   * [Simplified Continuous Deployment on Google Cloud Platform](https://medium.com/@timtech4u/simplified-continuous-deployment-on-google-cloud-platform-bc5b0a025c4e)
   * [How to deploy a webapp to Google Cloud Run with Cloud Build](https://dev.to/carlosazaustre/how-to-deploy-a-webapp-to-google-cloud-run-with-cloud-build-4eel)
 * [Using Semaphore](https://semaphoreci.com/blog/google-cloud-run-cicd-first-look)
