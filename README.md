@@ -60,6 +60,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [C# backend (for a Unity game)](https://medium.com/firebase-developers/how-to-write-a-c-backend-for-a-unity-game-using-firebase-and-googles-cloud-run-adebf79a57f)
 * [Wordpress](https://medium.com/@salvopappalardo/how-to-install-a-wordpress-site-on-google-cloud-run-828bdc0d0e96) 
 * [Facebook chatbot](https://jeanklaas.com/blog/cloudrun-chatbot/)
+* [Multiple processes in a container](https://ahmet.im/blog/cloud-run-multiple-processes-easy-way/)
 
 #### Private microservices
 
