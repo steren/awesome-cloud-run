@@ -82,6 +82,7 @@ Short link to product page: https://cloud.run
   * [konfig](https://github.com/kelseyhightower/konfig) to use Kubernetes configmaps and secrets with Cloud Run
 * [GCR Cleaner](https://github.com/sethvargo/gcr-cleaner): Delete untagged image refs in Google Container Registry, as a service
 * [Cloud Run Button](https://github.com/jamesward/cloud-run-button): Add a deploy button to a README to enable two-click deployment of a repo
+* [buildstatus](https://github.com/mchmarny/buildstatus) Cloud Build status notifications in Slack using Cloud Run
 
 ### CI/CD
 
