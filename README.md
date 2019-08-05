@@ -32,6 +32,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [3 cool Cloud Run features that developers love](https://cloud.google.com/blog/products/serverless/3-cool-cloud-run-features-that-developers-love-and-that-you-will-too)
 * [Cloud Run and Cloud Function: What I use? And Why?](https://medium.com/@guillaume.blaquiere/cloud-run-and-cloud-function-what-i-use-and-why-12bb5d3798e1)
 * [Minimizing Cold Starts](https://www.jhanley.com/google-cloud-run-minimizing-cold-starts/)
+* [Cloud Run VS Cloud Functions: What’s the lowest cost?](https://medium.com/google-cloud/cloud-run-vs-cloud-functions-whats-the-lowest-cost-728d59345a2e)
 
 
 ### Tutorials
