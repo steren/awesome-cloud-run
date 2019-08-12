@@ -63,6 +63,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Wordpress](https://medium.com/@salvopappalardo/how-to-install-a-wordpress-site-on-google-cloud-run-828bdc0d0e96) 
 * [Facebook chatbot](https://jeanklaas.com/blog/cloudrun-chatbot/)
 * [Multiple processes in a container](https://ahmet.im/blog/cloud-run-multiple-processes-easy-way/)
+* [GitHub activity counter](https://github.com/mchmarny/github-activity-counter)
 
 #### Private microservices
 
