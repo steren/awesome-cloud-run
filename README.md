@@ -1,6 +1,6 @@
 # Awesome [Cloud Run](https://cloud.google.com/run/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources about all things [Cloud Run](https://cloud.google.com/run/).
+> A curated list of resources about all things [Cloud Run](https://cloud.google.com/run/). Feel free to send Pull Requests!
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.*
 
