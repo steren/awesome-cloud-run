@@ -64,7 +64,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Facebook chatbot](https://jeanklaas.com/blog/cloudrun-chatbot/)
 * [Multiple processes in a container](https://ahmet.im/blog/cloud-run-multiple-processes-easy-way/)
 * [GitHub activity counter](https://github.com/mchmarny/github-activity-counter)
-* [Serverless R functions with Cloud Run]https://ericjinks.com/blog/2019/08/serverless-R-cloud-run/
+* [Serverless R functions with Cloud Run](https://ericjinks.com/blog/2019/08/serverless-R-cloud-run/)
 
 #### Private microservices
 
