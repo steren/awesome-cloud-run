@@ -65,6 +65,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Multiple processes in a container](https://ahmet.im/blog/cloud-run-multiple-processes-easy-way/)
 * [GitHub activity counter](https://github.com/mchmarny/github-activity-counter)
 * [Serverless R functions with Cloud Run](https://ericjinks.com/blog/2019/08/serverless-R-cloud-run/)
+* [TensorFlow and Cloud Run](https://medium.com/google-cloud/portable-prediction-with-tensorflow-and-cloud-run-669c1c73ebd1)
 
 #### Private microservices
 
