@@ -130,6 +130,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Using GitLab](https://viggy28.dev/article/cloudrun-cicd/)
 * [Using Travis CI](https://github.com/ahmetb/cloud-run-travisci)
 * [Using Bitbucket Pipelines](https://medium.com/@puuga/dev-story-deploy-to-gcp-cloud-run-with-bitbucket-pipelines-4fef8f2ece27)
+* [Using GitHub Actions](https://misfra.me/2019/09/deploying-projects-to-cloud-run-using-github-actions/)
 
 ### Integrations
 
