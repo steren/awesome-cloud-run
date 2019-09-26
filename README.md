@@ -151,6 +151,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python)
 * [Ruby](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-ruby)
 * [PHP](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-php)
+  * [Laravel](https://github.com/kooooohe/LaravelOnCloudRunDevKit/tree/master)
 * [Kotlin](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-kotlin)
 * Java:
   * [SpringBoot](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-java)
