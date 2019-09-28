@@ -173,6 +173,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * Swift: [helloworld-swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift) and [SwiftCloudRun](https://github.com/alfianlosari/SwiftCloudRun)
 * [R](https://github.com/MarkEdmondson1234/cloudRunR)
 * [R](https://github.com/Jinksi/cloudrun-helloworld-r)
+* [Nim](https://github.com/karur4n-sandbox/try-cloud-run-with-nim)
 
 ### Useful microservices
 
