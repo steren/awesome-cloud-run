@@ -30,6 +30,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * Node.js
   * 📦 [Hello World](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-nodejs)
   * 📦 [Node.js and Cloud SQL](https://github.com/jamesward/nodebars)
+  * 📰 [Node.js web app](https://thenewstack.io/tutorial-deploying-a-web-application-on-google-cloud-run/)
 * 📦 [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
 * 📦 [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python)
 * 📦 [Ruby](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-ruby)
@@ -41,19 +42,29 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📦 [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run)
   * 📦 [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal)
   * 📦 [Launching/installing a Micronaut app with Cloud Shell](https://github.com/jamesward/hello-micronaut/)
+  * 📰 [Java web app](https://medium.com/@pravanjan.palai/run-your-web-app-in-google-cloud-run-e2627d29aa17)
   * Quarkus:
     * 📰 [Quarkus tutorial](https://medium.com/@alexismp/deploying-a-quarkus-app-to-google-cloud-run-c4a8ca3be526)
     * 📦 [Quarkus with GraalVM](https://github.com/gunnarmorling/quarkus-pdf-extract) (extracting text from PDF files)
 * 📦 [Shell](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-shell)
 * 📦 [Scala](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-scala)
 * 📦 [Clojure](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-clojure)
-* 📦 [Dart](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-dart)
-* 📦 [Elixir](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-elixir)
+* Dart
+  * 📦 [Dart](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-dart)
+  * 📰 [Dart is ready for FaaS with Cloud Run](https://medium.com/yakka/dart-is-ready-for-faas-with-cloud-run-fb069abb3176)
+* Elixir: 
+  * 📦 [Elixir](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-elixir)
+  * 📰 [Elixir](https://www.youtube.com/watch?v=6Jo8WlWq-Fw) (video)
 * 📦 [Haskell](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-haskell)
 * 📦 [Rust](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust)
+* C# and .NET
+  * 📦 [C#](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-csharp)
+  * 📰 [C# backend (for a Unity game)](https://medium.com/firebase-developers/how-to-write-a-c-backend-for-a-unity-game-using-firebase-and-googles-cloud-run-adebf79a57f)
 * Swift
   * 📦 [helloworld-swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift)
   * 📦 [SwiftCloudRun](https://github.com/alfianlosari/SwiftCloudRun)
+  * 📰 [Deploy Swift Hello World in 5 minutes](https://medium.com/google-cloud/deploy-swift-http-serverless-container-to-google-cloud-run-in-5-minutes-alfian-losari-98389d34d4b8)
+  * 📰 [Serverless Server-side Swift using Google Cloud Run](https://medium.com/@cweinberger/serverless-server-side-swift-using-google-cloud-run-2b314ce74293)
 * R
   * 📦 [R Hello World with Plumber](https://github.com/MarkEdmondson1234/cloudRunR)
   * 📦 [R Hello World](https://github.com/Jinksi/cloudrun-helloworld-r)
@@ -69,27 +80,17 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 * [Build and deploy serverless Node.js dockerized API](https://medium.com/@shivanshupatel_73549/build-and-deploy-serverless-dockerized-api-with-cloud-run-25021f76cf07)
 * [Nuxt.js and Firebase Hosting](https://www.youtube.com/watch?v=3OP-q55hOUI) (video)
-* [Node.js web app](https://thenewstack.io/tutorial-deploying-a-web-application-on-google-cloud-run/) by *The New Stack*
 * [Ruby on Rails real life example](https://medium.com/google-cloud/google-cloud-run-on-rails-a-real-life-example-part-1-preparing-the-ground-705c94ab8a7a)
-* [Java web app](https://medium.com/@pravanjan.palai/run-your-web-app-in-google-cloud-run-e2627d29aa17)
 * [Rust REST API with Diesel, Rocket, and MySQL](https://cprimozic.net/blog/rust-rocket-cloud-run/)
-* Swift:
-  * [Deploy Swift Hello World in 5 minutes](https://medium.com/google-cloud/deploy-swift-http-serverless-container-to-google-cloud-run-in-5-minutes-alfian-losari-98389d34d4b8)
-  * [Serverless Server-side Swift using Google Cloud Run](https://medium.com/@cweinberger/serverless-server-side-swift-using-google-cloud-run-2b314ce74293)
-* [Elixir](https://www.youtube.com/watch?v=6Jo8WlWq-Fw) (video)
-* [Dart is ready for FaaS with Cloud Run](https://medium.com/yakka/dart-is-ready-for-faas-with-cloud-run-fb069abb3176)
 * [GraphQL API](https://blog.shanelee.name/2019/05/17/graphql-api-google-cloud-run/)
 * [Hugo blog](https://blog.mrtrustor.net/post/making-this-blog-with-cloud-run/)
 * [Apache NiFi workflows](https://medium.com/@pierre.villard/deploying-apache-nifi-workflows-on-google-cloud-run-8c0c988354f1)
 * [Camunda BPM](https://medium.com/@ruslanfg/run-camunda-bpm-on-google-cloud-run-ecc59dc9fbc4)
 * [Webmention](https://bitworking.org/news/2019/05/webmention-on-google-cloud-run)
-* [C# backend (for a Unity game)](https://medium.com/firebase-developers/how-to-write-a-c-backend-for-a-unity-game-using-firebase-and-googles-cloud-run-adebf79a57f)
 * [Wordpress](https://medium.com/@salvopappalardo/how-to-install-a-wordpress-site-on-google-cloud-run-828bdc0d0e96) 
 * [Facebook chatbot](https://jeanklaas.com/blog/cloudrun-chatbot/)
 * [Multiple processes in a container](https://ahmet.im/blog/cloud-run-multiple-processes-easy-way/)
-* [GitHub activity counter](https://github.com/mchmarny/github-activity-counter)
-* [TensorFlow and Cloud Run](https://medium.com/google-cloud/portable-prediction-with-tensorflow-and-cloud-run-669c1c73ebd1)
-
+* [TensorFlow](https://medium.com/google-cloud/portable-prediction-with-tensorflow-and-cloud-run-669c1c73ebd1)
 
 ## Articles
 
@@ -192,6 +193,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   registries on your custom domain names.
 * [plantuml-image-converter](https://github.com/rprakashg/plantuml-image-converter): UML diagrams to images
 * [.xlsx parser](https://gitlab.com/souldeux/sdx-xlsx-go)
+* [GitHub activity counter](https://github.com/mchmarny/github-activity-counter)
 
 ### Fun
 
