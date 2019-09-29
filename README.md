@@ -30,7 +30,6 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Static files](https://github.com/steren/static)
 * Node.js
   * [Hello World](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-nodejs)
-  * and [`@google-cloud/functions-framework`](https://github.com/GoogleCloudPlatform/functions-framework-nodejs) for functions
   * [Node.js and Cloud SQL](https://github.com/jamesward/nodebars)
 * [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
 * [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python)
