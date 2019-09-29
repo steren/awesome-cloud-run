@@ -27,36 +27,43 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ### Languages
 
-* [Static files](https://github.com/steren/static)
 * Node.js
-  * [Hello World](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-nodejs)
-  * [Node.js and Cloud SQL](https://github.com/jamesward/nodebars)
-* [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
-* [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python)
-* [Ruby](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-ruby)
-* [PHP](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-php)
-  * [Laravel](https://github.com/kooooohe/LaravelOnCloudRunDevKit/tree/master)
-* [Kotlin](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-kotlin)
+  * 📦 [Hello World](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-nodejs)
+  * 📦 [Node.js and Cloud SQL](https://github.com/jamesward/nodebars)
+* 📦 [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
+* 📦 [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python)
+* 📦 [Ruby](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-ruby)
+* 📦 [PHP](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-php)
+  * 📦 [Laravel](https://github.com/kooooohe/LaravelOnCloudRunDevKit/tree/master)
+* 📦 [Kotlin](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-kotlin)
 * Java:
-  * [SpringBoot](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-java)
-  * [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run)
-  * [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal)
-  * [Launching/installing a Micronaut app with Cloud Shell](https://github.com/jamesward/hello-micronaut/)
+  * 📦 [SpringBoot](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-java)
+  * 📦 [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run)
+  * 📦 [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal)
+  * 📦 [Launching/installing a Micronaut app with Cloud Shell](https://github.com/jamesward/hello-micronaut/)
   * Quarkus:
-    * [Quarkus tutorial](https://medium.com/@alexismp/deploying-a-quarkus-app-to-google-cloud-run-c4a8ca3be526)
-    * [Quarkus with GraalVM](https://github.com/gunnarmorling/quarkus-pdf-extract) (extracting text from PDF files)
-* [Shell](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-shell)
-* [Scala](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-scala)
-* [Clojure](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-clojure)
-* [Dart](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-dart)
-* [Elixir](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-elixir)
-* [Haskell](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-haskell)
-* [Rust](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust)
-* Swift: [helloworld-swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift) and [SwiftCloudRun](https://github.com/alfianlosari/SwiftCloudRun)
+    * 📰 [Quarkus tutorial](https://medium.com/@alexismp/deploying-a-quarkus-app-to-google-cloud-run-c4a8ca3be526)
+    * 📦 [Quarkus with GraalVM](https://github.com/gunnarmorling/quarkus-pdf-extract) (extracting text from PDF files)
+* 📦 [Shell](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-shell)
+* 📦 [Scala](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-scala)
+* 📦 [Clojure](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-clojure)
+* 📦 [Dart](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-dart)
+* 📦 [Elixir](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-elixir)
+* 📦 [Haskell](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-haskell)
+* 📦 [Rust](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust)
+* Swift
+  * 📦 [helloworld-swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift)
+  * 📦 [SwiftCloudRun](https://github.com/alfianlosari/SwiftCloudRun)
 * R
-  * [R Hello World](https://github.com/MarkEdmondson1234/cloudRunR)
-  * [R Hello World](https://github.com/Jinksi/cloudrun-helloworld-r)
-* [Nim](https://github.com/karur4n-sandbox/try-cloud-run-with-nim)
+  * 📦 [R Hello World with Plumber](https://github.com/MarkEdmondson1234/cloudRunR)
+  * 📦 [R Hello World](https://github.com/Jinksi/cloudrun-helloworld-r)
+  * 📰 [Serverless R functions with Cloud Run](https://ericjinks.com/blog/2019/08/serverless-R-cloud-run/)
+* 📦 [Nim](https://github.com/karur4n-sandbox/try-cloud-run-with-nim)
+* Static files:
+  * 📦 [Static files](https://github.com/steren/static)
+  * 📰 [Static website in 5 minutes using nginx](https://medium.com/@aconchillo/google-cloud-run-or-how-to-run-your-static-website-in-5-minutes-and-much-more-dbe8f2804395).
+  * 📰 [How to Run a Static Site On Google Cloud Run?](https://medium.com/@maurycek/how-to-run-a-static-site-on-google-cloud-run-345713ca4b40)
+  * 📙 [Firebase Hosting](https://firebase.google.com/docs/hosting) is likely a better option
 
 ### Popular stacks
 
@@ -71,10 +78,6 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * [Serverless Server-side Swift using Google Cloud Run](https://medium.com/@cweinberger/serverless-server-side-swift-using-google-cloud-run-2b314ce74293)
 * [Elixir](https://www.youtube.com/watch?v=6Jo8WlWq-Fw) (video)
 * [Dart is ready for FaaS with Cloud Run](https://medium.com/yakka/dart-is-ready-for-faas-with-cloud-run-fb069abb3176)
-* Static websites:
-  * [Static website in 5 minutes using nginx](https://medium.com/@aconchillo/google-cloud-run-or-how-to-run-your-static-website-in-5-minutes-and-much-more-dbe8f2804395).
-  * [How to Run a Static Site On Google Cloud Run?](https://medium.com/@maurycek/how-to-run-a-static-site-on-google-cloud-run-345713ca4b40)
-  * ... but [Firebase Hosting](https://firebase.google.com/docs/hosting) is likely a better option
 * [GraphQL API](https://blog.shanelee.name/2019/05/17/graphql-api-google-cloud-run/)
 * [Hugo blog](https://blog.mrtrustor.net/post/making-this-blog-with-cloud-run/)
 * [Apache NiFi workflows](https://medium.com/@pierre.villard/deploying-apache-nifi-workflows-on-google-cloud-run-8c0c988354f1)
@@ -85,7 +88,6 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Facebook chatbot](https://jeanklaas.com/blog/cloudrun-chatbot/)
 * [Multiple processes in a container](https://ahmet.im/blog/cloud-run-multiple-processes-easy-way/)
 * [GitHub activity counter](https://github.com/mchmarny/github-activity-counter)
-* [Serverless R functions with Cloud Run](https://ericjinks.com/blog/2019/08/serverless-R-cloud-run/)
 * [TensorFlow and Cloud Run](https://medium.com/google-cloud/portable-prediction-with-tensorflow-and-cloud-run-669c1c73ebd1)
 
 
@@ -199,7 +201,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ## Cloud Run API
 
-* [REST API Reference](https://cloud.google.com/run/docs/reference/rest/)
+* 📙 [REST API Reference](https://cloud.google.com/run/docs/reference/rest/)
 * 📰 [Understanding the APIs](https://www.jhanley.com/google-cloud-run-deep-dive-understanding-the-apis-part-1/)
 
 ## Meetups
