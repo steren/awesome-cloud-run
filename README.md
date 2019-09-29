@@ -196,6 +196,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ## Cloud Run API
 
+* [REST API Reference](https://cloud.google.com/run/docs/reference/rest/)
 * 📰 [Understanding the APIs](https://www.jhanley.com/google-cloud-run-deep-dive-understanding-the-apis-part-1/)
 
 ## Meetups
