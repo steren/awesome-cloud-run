@@ -23,21 +23,43 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Hello Cloud Run Codelab](https://codelabs.developers.google.com/codelabs/cloud-run-hello) (use your own GCP account)
 * [Hello Cloud Run Qwiklab](https://google.qwiklabs.com/focuses/5161?parent=catalog) (use temp Qwiklabs resources)
 
-### Articles
+## Hello World and samples
 
-* [Cloud Run: Bringing serverless to containers](https://cloud.google.com/blog/products/serverless/cloud-run-bringing-serverless-to-containers)
-* [Google Cloud Run — Deploying Containerized Applications to a Serverless Environment ⚡](https://medium.com/@timtech4u/deploy-serverless-container-google-cloud-run-68d716af7716)
-* [Powerful serverless with Cloud Run](https://medium.com/masmovil-engineering/powerful-serverless-with-cloud-run-b314cd5d73c1)
-* [The best features of Google Cloud Run](https://medium.com/weareservian/3-best-features-of-google-cloud-run-546e367242ea)
-* [3 cool Cloud Run features that developers love](https://cloud.google.com/blog/products/serverless/3-cool-cloud-run-features-that-developers-love-and-that-you-will-too)
-* [Cloud Run and Cloud Function: What I use? And Why?](https://medium.com/@guillaume.blaquiere/cloud-run-and-cloud-function-what-i-use-and-why-12bb5d3798e1)
-* [Minimizing Cold Starts](https://www.jhanley.com/google-cloud-run-minimizing-cold-starts/)
-* [Cloud Run VS Cloud Functions: What’s the lowest cost?](https://medium.com/google-cloud/cloud-run-vs-cloud-functions-whats-the-lowest-cost-728d59345a2e)
-* [12 factor apps and Cloud Run](https://cloud.google.com/blog/products/serverless/a-dozen-reasons-why-cloud-run-complies-with-the-twelve-factor-app-methodology)
+### Languages
 
-### Tutorials
+* [Static files](https://github.com/steren/static)
+* Node.js
+  * [Hello World](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-nodejs)
+  * and [`@google-cloud/functions-framework`](https://github.com/GoogleCloudPlatform/functions-framework-nodejs) for functions
+  * [Node.js and Cloud SQL](https://github.com/jamesward/nodebars)
+* [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
+* [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python)
+* [Ruby](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-ruby)
+* [PHP](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-php)
+  * [Laravel](https://github.com/kooooohe/LaravelOnCloudRunDevKit/tree/master)
+* [Kotlin](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-kotlin)
+* Java:
+  * [SpringBoot](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-java)
+  * [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run)
+  * [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal)
+  * [Launching/installing a Micronaut app with Cloud Shell](https://github.com/jamesward/hello-micronaut/)
+  * Quarkus:
+    * [Quarkus tutorial](https://medium.com/@alexismp/deploying-a-quarkus-app-to-google-cloud-run-c4a8ca3be526)
+    * [Quarkus with GraalVM](https://github.com/gunnarmorling/quarkus-pdf-extract) (extracting text from PDF files)
+* [Shell](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-shell)
+* [Scala](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-scala)
+* [Clojure](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-clojure)
+* [Dart](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-dart)
+* [Elixir](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-elixir)
+* [Haskell](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-haskell)
+* [Rust](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust)
+* Swift: [helloworld-swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift) and [SwiftCloudRun](https://github.com/alfianlosari/SwiftCloudRun)
+* R
+  * [R Hello World](https://github.com/MarkEdmondson1234/cloudRunR)
+  * [R Hello World](https://github.com/Jinksi/cloudrun-helloworld-r)
+* [Nim](https://github.com/karur4n-sandbox/try-cloud-run-with-nim)
 
-#### Popular stacks
+### Popular stacks
 
 * [Build and deploy serverless Node.js dockerized API](https://medium.com/@shivanshupatel_73549/build-and-deploy-serverless-dockerized-api-with-cloud-run-25021f76cf07)
 * [Nuxt.js and Firebase Hosting](https://www.youtube.com/watch?v=3OP-q55hOUI) (video)
@@ -67,12 +89,27 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Serverless R functions with Cloud Run](https://ericjinks.com/blog/2019/08/serverless-R-cloud-run/)
 * [TensorFlow and Cloud Run](https://medium.com/google-cloud/portable-prediction-with-tensorflow-and-cloud-run-669c1c73ebd1)
 
-#### Private microservices
+
+## Articles
+
+* [Cloud Run: Bringing serverless to containers](https://cloud.google.com/blog/products/serverless/cloud-run-bringing-serverless-to-containers)
+* [Google Cloud Run — Deploying Containerized Applications to a Serverless Environment ⚡](https://medium.com/@timtech4u/deploy-serverless-container-google-cloud-run-68d716af7716)
+* [Powerful serverless with Cloud Run](https://medium.com/masmovil-engineering/powerful-serverless-with-cloud-run-b314cd5d73c1)
+* [The best features of Google Cloud Run](https://medium.com/weareservian/3-best-features-of-google-cloud-run-546e367242ea)
+* [3 cool Cloud Run features that developers love](https://cloud.google.com/blog/products/serverless/3-cool-cloud-run-features-that-developers-love-and-that-you-will-too)
+* [Cloud Run and Cloud Function: What I use? And Why?](https://medium.com/@guillaume.blaquiere/cloud-run-and-cloud-function-what-i-use-and-why-12bb5d3798e1)
+* [Minimizing Cold Starts](https://www.jhanley.com/google-cloud-run-minimizing-cold-starts/)
+* [Cloud Run VS Cloud Functions: What’s the lowest cost?](https://medium.com/google-cloud/cloud-run-vs-cloud-functions-whats-the-lowest-cost-728d59345a2e)
+* [12 factor apps and Cloud Run](https://cloud.google.com/blog/products/serverless/a-dozen-reasons-why-cloud-run-complies-with-the-twelve-factor-app-methodology)
+
+## Tutorials
+
+### Private microservices
 
 * [Making requests with a Service Account](https://medium.com/@zdenulo/making-requests-to-cloud-run-with-the-service-account-620014dc1486)
 * [Service-to-service authentication](https://cloud.google.com/run/docs/securing/authenticating#service-to-service)
 
-#### Async and events
+### Async and events
 
 * [Sending Pub/Sub events to Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub) by *Google Cloud*
 * [Using a Cloud Run service as async worker](https://medium.com/@zdenulo/using-cloud-run-service-as-async-worker-cf5b1b3fd226)
@@ -80,18 +117,18 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Using Cloud Run as a webhook for Actions on Google](https://medium.com/google-developers/using-cloud-run-as-a-webhook-for-actions-on-google-792b58694651?linkId=67861967)
 * [Use Cloud Run to pre-process raw events from PubSub and publish them to new topic](https://github.com/mchmarny/preprocessd)
 
-#### Security
+### Security
 
 * [Help! I forgot to click "Allow unauthenticated invocations"](https://dev.to/googlecloud/help-i-forgot-to-click-allow-unauthenticated-invocations-on-google-cloud-run-2hoj)
 * [Using per service Identity and encrypting secrets](https://www.jhanley.com/google-cloud-run-identity/)
 * [Cloud Run with static outgoing IP](https://ahmet.im/blog/cloud-run-static-ip/)
 
-#### Local development
+### Local development
 
 * [Using Docker](https://cloud.google.com/run/docs/testing/local)
 * [Using Docker Compose](https://cloud.google.com/community/tutorials/cloud-run-local-dev-docker-compose)
 
-### Help
+## Help
 
 * [Troubleshooting guide](https://cloud.google.com/run/docs/troubleshooting)
 * Use the [`google-cloud-run` tag on StackOverflow](https://stackoverflow.com/questions/tagged/google-cloud-run)
@@ -140,42 +177,9 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Twilio](https://github.com/amygdala/code-snippets/tree/master/cloud_run/twilio_vision): Create a TwiML app to trigger a Cloud Run service from SMS message.
 * [Flic buttons](https://github.com/mchmarny/buttons): How to use Flic buttons with Cloud Run and Cloud PubSub
 
-## Containers
+## Samples and microservices
 
-### Samples
-
-* [Static files](https://github.com/steren/static)
-* Node.js
-  * [Hello World](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-nodejs)
-  * and [`@google-cloud/functions-framework`](https://github.com/GoogleCloudPlatform/functions-framework-nodejs) for functions
-  * [Node.js and Cloud SQL](https://github.com/jamesward/nodebars)
-* [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
-* [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python)
-* [Ruby](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-ruby)
-* [PHP](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-php)
-  * [Laravel](https://github.com/kooooohe/LaravelOnCloudRunDevKit/tree/master)
-* [Kotlin](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-kotlin)
-* Java:
-  * [SpringBoot](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-java)
-  * [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run)
-  * [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal)
-  * [Launching/installing a Micronaut app with Cloud Shell](https://github.com/jamesward/hello-micronaut/)
-  * Quarkus:
-    * [Quarkus tutorial](https://medium.com/@alexismp/deploying-a-quarkus-app-to-google-cloud-run-c4a8ca3be526)
-    * [Quarkus with GraalVM](https://github.com/gunnarmorling/quarkus-pdf-extract) (extracting text from PDF files)
-* [Shell](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-shell)
-* [Scala](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-scala)
-* [Clojure](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-clojure)
-* [Dart](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-dart)
-* [Elixir](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-elixir)
-* [Haskell](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-haskell)
-* [Rust](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust)
-* Swift: [helloworld-swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift) and [SwiftCloudRun](https://github.com/alfianlosari/SwiftCloudRun)
-* [R](https://github.com/MarkEdmondson1234/cloudRunR)
-* [R](https://github.com/Jinksi/cloudrun-helloworld-r)
-* [Nim](https://github.com/karur4n-sandbox/try-cloud-run-with-nim)
-
-### Useful microservices
+### Useful
 
 * [pdf](https://github.com/as-a-service/pdf): Transform Word documents to PDF.
 * [screenshot](https://github.com/as-a-service/screenshot): Take screenshots of webpages using Chromium via puppeteer
