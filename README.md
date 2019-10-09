@@ -139,6 +139,10 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 * 📰 [Migrating Node.js apps from Heroku to Cloud Run](https://cloud.google.com/solutions/migrating-nodejs-apps-from-heroku-to-cloud-run)
 
+### Networking
+
+* 📰 [Serverless gRPC with Cloud Run](https://medium.com/@petomalina/%EF%B8%8Fserverless-grpc-with-cloud-run-bab3622a47da)
+
 ## Help
 
 * 📙 [Troubleshooting guide](https://cloud.google.com/run/docs/troubleshooting)
