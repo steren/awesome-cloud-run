@@ -170,7 +170,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Cloud Run Button](https://github.com/GoogleCloudPlatform/cloud-run-button): Add a deploy button to a README to enable two-click deployment of a repo
 * [buildstatus](https://github.com/mchmarny/buildstatus) Cloud Build status notifications in Slack using Cloud Run
 
-### CI/CD
+## CI/CD
 
 * Using Cloud Build:
   * [Official docs](https://cloud.google.com/run/docs/continuous-deployment)
@@ -179,7 +179,9 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * [Continuous Deployment to Cloud Run Services based on a New Container Image](https://fullstackgcp.com/continuous-deployment-to-cloud-run-services-based-on-a-new-container-image-cjyta6rec002k26s1sfp0xv9z)
   * [How to deploy a webapp to Google Cloud Run with Cloud Build](https://dev.to/carlosazaustre/how-to-deploy-a-webapp-to-google-cloud-run-with-cloud-build-4eel)
 * [Using Semaphore](https://semaphoreci.com/blog/google-cloud-run-cicd-first-look)
-* [Using GitLab](https://viggy28.dev/article/cloudrun-cicd/)
+* GitLab
+  * 📰 [Using GitLab](https://viggy28.dev/article/cloudrun-cicd/)
+  * 📰 [GitLab CI / CD to Cloud Run](https://medium.com/@jeandesravines/serverless-docker-using-google-cloud-run-a0ca21ef1c20)
 * [Using Travis CI](https://github.com/ahmetb/cloud-run-travisci)
 * [Using Bitbucket Pipelines](https://medium.com/@puuga/dev-story-deploy-to-gcp-cloud-run-with-bitbucket-pipelines-4fef8f2ece27)
 * Using GitHub Actions:
