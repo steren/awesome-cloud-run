@@ -194,6 +194,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Firebase Hosting](https://firebase.google.com/docs/hosting/cloud-run): Static files, advanced path-based routing, and global CDN for Cloud Run
 * [Twilio](https://github.com/amygdala/code-snippets/tree/master/cloud_run/twilio_vision): Create a TwiML app to trigger a Cloud Run service from SMS message.
 * [Flic buttons](https://github.com/mchmarny/buttons): How to use Flic buttons with Cloud Run and Cloud PubSub
+* [Datasette](https://datasette.readthedocs.io/en/stable/changelog.html#datasette-publish-cloudrun): Publish your [Datasette](https://github.com/simonw/datasette) to Cloud Run.
 
 ## Samples and microservices
 
@@ -210,6 +211,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📦 [plantuml-image-converter](https://github.com/rprakashg/plantuml-image-converter): UML diagrams to images
 * 📦 [.xlsx parser](https://gitlab.com/souldeux/sdx-xlsx-go)
 * 📦 [GitHub activity counter](https://github.com/mchmarny/github-activity-counter)
+* 📦 [django-demo-app-unicodex](https://github.com/GoogleCloudPlatform/django-demo-app-unicodex): Django in Cloud Run with Cloud SQL and Cloud Storages.
 
 ### Fun
 
