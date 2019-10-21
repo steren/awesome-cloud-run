@@ -143,6 +143,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 ### Networking
 
 * 📰 [Serverless gRPC with Cloud Run](https://medium.com/@petomalina/%EF%B8%8Fserverless-grpc-with-cloud-run-bab3622a47da)
+* 📰 [Authenticating with gRPC on Cloud Run](https://ahmet.im/blog/grpc-auth-cloud-run/)
 
 ## Help
 
