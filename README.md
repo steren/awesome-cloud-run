@@ -94,6 +94,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Facebook chatbot](https://jeanklaas.com/blog/cloudrun-chatbot/)
 * [Multiple processes in a container](https://ahmet.im/blog/cloud-run-multiple-processes-easy-way/)
 * [TensorFlow](https://medium.com/google-cloud/portable-prediction-with-tensorflow-and-cloud-run-669c1c73ebd1)
+* [Laravel](https://geshan.com.np/blog/2019/10/get-laravel-6-running-on-google-cloud-run-step-by-step-with-ci/)
 
 ## Articles
 
