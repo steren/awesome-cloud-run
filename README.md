@@ -36,9 +36,10 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📦 [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
 * 📦 [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python)
 * 📦 [Ruby](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-ruby)
-* 📦 [PHP](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-php)
+* 📦 PHP
+  * 📦 [Hello World](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-php)
   * 📦 [Laravel](https://github.com/kooooohe/LaravelOnCloudRunDevKit/tree/master)
-  * 📦 [Laravel 6](https://github.com/geshan/laravel6-on-google-cloud-run)
+  * 📦 [Laravel 6](https://github.com/geshan/laravel6-on-google-cloud-run) - 📰 [Blog post](https://geshan.com.np/blog/2019/10/get-laravel-6-running-on-google-cloud-run-step-by-step-with-ci/)
 * 📦 [Kotlin](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-kotlin)
 * Java:
   * 📦 [SpringBoot](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-java)
