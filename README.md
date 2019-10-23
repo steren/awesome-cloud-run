@@ -58,7 +58,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📰 [Dart is ready for FaaS with Cloud Run](https://medium.com/yakka/dart-is-ready-for-faas-with-cloud-run-fb069abb3176)
 * Elixir: 
   * 📦 [Elixir](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-elixir)
-  * 📰 [Elixir](https://www.youtube.com/watch?v=6Jo8WlWq-Fw) (video)
+  * 🎬 [Elixir](https://www.youtube.com/watch?v=6Jo8WlWq-Fw)
 * 📦 [Haskell](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-haskell)
 * 📦 [Rust](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust)
 * C# and .NET
