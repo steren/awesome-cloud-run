@@ -82,19 +82,22 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ### Popular stacks
 
-* [Build and deploy serverless Node.js dockerized API](https://medium.com/@shivanshupatel_73549/build-and-deploy-serverless-dockerized-api-with-cloud-run-25021f76cf07)
-* [Nuxt.js and Firebase Hosting](https://www.youtube.com/watch?v=3OP-q55hOUI) (video)
-* [Ruby on Rails real life example](https://medium.com/google-cloud/google-cloud-run-on-rails-a-real-life-example-part-1-preparing-the-ground-705c94ab8a7a)
-* [Rust REST API with Diesel, Rocket, and MySQL](https://cprimozic.net/blog/rust-rocket-cloud-run/)
-* [GraphQL API](https://blog.shanelee.name/2019/05/17/graphql-api-google-cloud-run/)
-* [Hugo blog](https://blog.mrtrustor.net/post/making-this-blog-with-cloud-run/)
-* [Apache NiFi workflows](https://medium.com/@pierre.villard/deploying-apache-nifi-workflows-on-google-cloud-run-8c0c988354f1)
-* [Camunda BPM](https://medium.com/@ruslanfg/run-camunda-bpm-on-google-cloud-run-ecc59dc9fbc4)
-* [Webmention](https://bitworking.org/news/2019/05/webmention-on-google-cloud-run)
-* [Wordpress](https://medium.com/@salvopappalardo/how-to-install-a-wordpress-site-on-google-cloud-run-828bdc0d0e96) 
-* [Facebook chatbot](https://jeanklaas.com/blog/cloudrun-chatbot/)
-* [Multiple processes in a container](https://ahmet.im/blog/cloud-run-multiple-processes-easy-way/)
-* [TensorFlow](https://medium.com/google-cloud/portable-prediction-with-tensorflow-and-cloud-run-669c1c73ebd1)
+* 📰 [Build and deploy serverless Node.js dockerized API](https://medium.com/@shivanshupatel_73549/build-and-deploy-serverless-dockerized-api-with-cloud-run-25021f76cf07)
+* 🎬 [Nuxt.js and Firebase Hosting](https://www.youtube.com/watch?v=3OP-q55hOUI) (video)
+* 📰 [Ruby on Rails real life example](https://medium.com/google-cloud/google-cloud-run-on-rails-a-real-life-example-part-1-preparing-the-ground-705c94ab8a7a)
+* 📰 [Rust REST API with Diesel, Rocket, and MySQL](https://cprimozic.net/blog/rust-rocket-cloud-run/)
+* 📰 [GraphQL API](https://blog.shanelee.name/2019/05/17/graphql-api-google-cloud-run/)
+* 📰 [Hugo blog](https://blog.mrtrustor.net/post/making-this-blog-with-cloud-run/)
+* 📰 [Apache NiFi workflows](https://medium.com/@pierre.villard/deploying-apache-nifi-workflows-on-google-cloud-run-8c0c988354f1)
+* 📰 [Camunda BPM](https://medium.com/@ruslanfg/run-camunda-bpm-on-google-cloud-run-ecc59dc9fbc4)
+* 📰 [Webmention](https://bitworking.org/news/2019/05/webmention-on-google-cloud-run)
+* 📰 [Wordpress](https://medium.com/@salvopappalardo/how-to-install-a-wordpress-site-on-google-cloud-run-828bdc0d0e96) 
+* 📰 [Facebook chatbot](https://jeanklaas.com/blog/cloudrun-chatbot/)
+* 📰 [Multiple processes in a container](https://ahmet.im/blog/cloud-run-multiple-processes-easy-way/)
+* 📰 [TensorFlow](https://medium.com/google-cloud/portable-prediction-with-tensorflow-and-cloud-run-669c1c73ebd1)
+* Headless Chrome
+  * 📰 [Python](https://dev.to/di/using-headless-chrome-with-cloud-run-3fdp)
+  * 📦 [Node.js (with puppeteer)](https://github.com/as-a-service/screenshot/)
 
 ## Articles
 
