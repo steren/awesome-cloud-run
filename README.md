@@ -178,9 +178,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * Secrets:
   * [Berglas](https://github.com/GoogleCloudPlatform/berglas) unofficial tool to manage secrets on Google Cloud
   * [konfig](https://github.com/kelseyhightower/konfig) to use Kubernetes configmaps and secrets with Cloud Run
-* [GCR Cleaner](https://github.com/sethvargo/gcr-cleaner): Delete untagged image refs in Google Container Registry, as a service
 * [Cloud Run Button](https://github.com/GoogleCloudPlatform/cloud-run-button): Add a deploy button to a README to enable two-click deployment of a repo
-* [buildstatus](https://github.com/mchmarny/buildstatus) Cloud Build status notifications in Slack using Cloud Run
 
 ## CI/CD
 
@@ -217,12 +215,15 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📦 [meme](https://github.com/as-a-service/meme): Generate meme images from a base image and text.
 * 📦 [trace](https://github.com/as-a-service/trace): Transform pixel images to SVG.
 * 📦 [inkscape](https://github.com/as-a-service/inkscape): Transform SVG images to PNG.
-* 📦 [gcr-custom-domains](https://github.com/ahmetb/gcr-custom-domains): Expose gcr.io container
-  registries on your custom domain names.
+* 📦 [gcr-cleaner](https://github.com/sethvargo/gcr-cleaner): Delete untagged image refs in Google Container Registry, as a service
+* 📦 [buildstatus](https://github.com/mchmarny/buildstatus) Cloud Build status notifications in Slack using Cloud Run
+* 📦 [serverless-registry-proxy](https://github.com/ahmetb/gcr-custom-domains): Generic serverless docker-registry v2 proxy (e.g. GCR.io on custom domains)
 * 📦 [plantuml-image-converter](https://github.com/rprakashg/plantuml-image-converter): UML diagrams to images
 * 📦 [.xlsx parser](https://gitlab.com/souldeux/sdx-xlsx-go)
 * 📦 [GitHub activity counter](https://github.com/mchmarny/github-activity-counter)
 * 📦 [django-demo-app-unicodex](https://github.com/GoogleCloudPlatform/django-demo-app-unicodex): Django in Cloud Run with Cloud SQL and Cloud Storages.
+* 📦 [ytdl](https://github.com/ahmetb/ytdl): Serverless video downloader
+
 
 ### Fun
 
