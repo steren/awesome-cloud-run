@@ -18,7 +18,8 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 * 📙 [Official Documentation](https://cloud.google.com/run/docs/)
 * 📰 [Community driven FAQ](https://github.com/ahmetb/cloud-run-faq#readme)
-* 🎬 [Youtube playlist of recommended Cloud Run videos](https://www.youtube.com/playlist?list=PLyAgaU37vE7S_Jjt8p6tL1LLmwKziRZjl)
+* 🎬 [Playlist of recommended Cloud Run videos](https://www.youtube.com/playlist?list=PLyAgaU37vE7S_Jjt8p6tL1LLmwKziRZjl)
+* 🎬 [Serverless Toolbox Playlist](https://www.youtube.com/playlist?list=PLIivdWyY5sqKiWvnaA5A8F3UQ0Xu5i49U)
 
 ### Quickstarts
 
