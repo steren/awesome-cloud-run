@@ -12,7 +12,7 @@ Short link to product page: https://cloud.run
 
 Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackOverflow](https://stackoverflow.com/questions/tagged/google-cloud-run)
 
-*Legend*: 📙: doc, 📰: article, 📦: sample
+*Legend*: 📙: doc, 📰: article, 📦: sample, 🎬: video, ✏️: interactive tutorial
 
 ## Documentation
 
