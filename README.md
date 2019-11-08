@@ -40,7 +40,9 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📦 [Hello World](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-nodejs)
   * 📦 [Node.js and Cloud SQL](https://github.com/jamesward/nodebars)
   * 📰 [Node.js web app](https://thenewstack.io/tutorial-deploying-a-web-application-on-google-cloud-run/)
-* 📦 [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
+* Go 
+  * 📰 [Running a serverless Go web application](https://bartfokker.com/posts/cloud-run/)
+  * 📦 [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
 * 📦 [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python)
 * 📦 [Ruby](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-ruby)
 * 📦 PHP
