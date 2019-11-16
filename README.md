@@ -83,6 +83,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * R
   * 📦 [R Hello World with Plumber](https://github.com/MarkEdmondson1234/cloudRunR)
   * 📦 [R Hello World](https://github.com/Jinksi/cloudrun-helloworld-r)
+  * 📦 [R Knative Hello World](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rserver)
   * 📰 [Serverless R functions with Cloud Run](https://ericjinks.com/blog/2019/08/serverless-R-cloud-run/)
 * 📦 [Nim](https://github.com/karur4n-sandbox/try-cloud-run-with-nim)
 * 📦 [Pascal](https://github.com/engelke/cloud-run-pascal)
