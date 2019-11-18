@@ -125,6 +125,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📰 [Migrating to Google Cloud Run Serverless Container Platform](https://medium.com/@ibakshay96/migrating-to-google-cloud-run-serverless-container-platform-e0e80d48d1ad)
 * 📰 [Say hello to serverless containers with Cloud Run](https://medium.com/swlh/say-hello-to-serverless-containers-with-cloud-run-4c32d90330fc)
 * 📰 [Functions Framework on Cloud Run](https://medium.com/google-cloud/node-12-functions-on-cloud-run-d891dd93c7c8)
+* 📰 [5 compelling reasons to opt for serverless containers](https://geshan.com.np/blog/2019/11/why-use-google-cloud-run-5-compelling-reasons/)
 
 ## Tutorials
 
