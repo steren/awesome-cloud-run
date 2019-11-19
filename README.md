@@ -129,7 +129,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ## Tutorials
 
-[Step by step of many Cloud Run concepts](https://github.com/meteatamel/cloudrun-tutorial)
+* 📰+📦 [Step by step of many Cloud Run concepts](https://github.com/meteatamel/cloudrun-tutorial)
 
 ### Containers
 
