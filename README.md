@@ -215,6 +215,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   - 📰 [Deploying projects to Cloud Run using GitHub Actions](https://misfra.me/2019/09/deploying-projects-to-cloud-run-using-github-actions/)
   - 📰 [Publish your Cloud Run App with GitHub Actions](https://medium.com/better-programming/publish-your-cloud-run-app-with-github-actions-6c18ff5c5ee4)
   - 📰 [Automate Cloud Run deployment in a minute (with GitHub actions)](https://medium.com/@ujwaldhakal/automate-cloud-run-deployment-in-a-minute-cb85e7db9f82)
+   - [Github Action for Google Cloud Run](https://github.com/marketplace/actions/cloud-run)
 
 ### Integrations
 
