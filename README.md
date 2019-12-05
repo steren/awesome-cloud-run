@@ -191,6 +191,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ## Tools
 
+* Terraform: [google_cloud_run_service](https://www.terraform.io/docs/providers/google/r/cloud_run_service.html) to manage your Cloud Run services as Code. 
 * Secrets:
   * [Berglas](https://github.com/GoogleCloudPlatform/berglas) unofficial tool to manage secrets on Google Cloud
   * [konfig](https://github.com/kelseyhightower/konfig) to use Kubernetes configmaps and secrets with Cloud Run
@@ -217,7 +218,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   - 📰 [Automate Cloud Run deployment in a minute (with GitHub actions)](https://medium.com/@ujwaldhakal/automate-cloud-run-deployment-in-a-minute-cb85e7db9f82)
    - [Github Action for Google Cloud Run](https://github.com/marketplace/actions/cloud-run)
 
-### Integrations
+## Integrations
 
 * [Firebase Hosting](https://firebase.google.com/docs/hosting/cloud-run): Static files, advanced path-based routing, and global CDN for Cloud Run
 * [Twilio](https://github.com/amygdala/code-snippets/tree/master/cloud_run/twilio_vision): Create a TwiML app to trigger a Cloud Run service from SMS message.
