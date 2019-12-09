@@ -51,11 +51,14 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📦 [Laravel](https://github.com/kooooohe/LaravelOnCloudRunDevKit/tree/master)
   * 📦 [Laravel 6](https://github.com/geshan/laravel6-on-google-cloud-run) - 📰 [Blog post](https://geshan.com.np/blog/2019/10/get-laravel-6-running-on-google-cloud-run-step-by-step-with-ci/)
   * 📦 [Symfony](https://github.com/geshan/symfony-demo-google-cloud-run) - 📰 [Blog post](https://geshan.com.np/blog/2019/11/how-to-run-symfony-on-google-cloud-run-with-the-demo-app-step-by-step-guide/)
-* 📦 [Kotlin](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-kotlin)
+* Kotlin:
+  * 📦 [Kotlin Knative sample](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-kotlin)
+  * 📦 [Kotlin with Ktor](https://github.com/jamesward/hello-kotlin-ktor)
 * Java:
   * 📦 [SpringBoot](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-java)
   * 📦 [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run)
   * 📦 [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal)
+  * 📦 [Micronaut with GraalVM](https://github.com/jamesward/hello-micronaut/tree/graalvm)
   * 📦 [Launching/installing a Micronaut app with Cloud Shell](https://github.com/jamesward/hello-micronaut/)
   * 📰 [Java web app](https://medium.com/@pravanjan.palai/run-your-web-app-in-google-cloud-run-e2627d29aa17)
   * Quarkus:
