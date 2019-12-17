@@ -33,7 +33,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * ✏️ [Hello Cloud Run Qwiklab](https://google.qwiklabs.com/focuses/5161?parent=catalog) (use temp Qwiklabs resources)
 * ✏️ [Cloud Run 101](https://instruqt.com/binxio/tracks/cloud-run-101) (no project needed)
 
-## Hello World and samples
+## Run popular languages and stacks
 
 ### Languages
 
