@@ -195,7 +195,9 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ## Tools
 
-* Terraform: [google_cloud_run_service](https://www.terraform.io/docs/providers/google/r/cloud_run_service.html) to manage your Cloud Run services as Code. 
+* Terraform: 
+  * 📰 [Configuring Cloud Run with Terraform](https://www.sethvargo.com/configuring-cloud-run-with-terraform/)
+  * 📙 [google_cloud_run_service](https://www.terraform.io/docs/providers/google/r/cloud_run_service.html) to manage your Cloud Run services as Code. 
 * Secrets:
   * [Berglas](https://github.com/GoogleCloudPlatform/berglas) unofficial tool to manage secrets on Google Cloud
   * [konfig](https://github.com/kelseyhightower/konfig) to use Kubernetes configmaps and secrets with Cloud Run
