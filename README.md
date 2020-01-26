@@ -202,7 +202,8 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * [Berglas](https://github.com/GoogleCloudPlatform/berglas) unofficial tool to manage secrets on Google Cloud
   * [konfig](https://github.com/kelseyhightower/konfig) to use Kubernetes configmaps and secrets with Cloud Run
 * [Cloud Run Button](https://github.com/GoogleCloudPlatform/cloud-run-button): Add a deploy button to a README to enable two-click deployment of a repo
-* [cloudRunner](https://github.com/MarkEdmondson1234/cloudRunner): As easy as possible R scripts in the cloud, via Cloud Run, Cloud Build and Cloud Scheduler. 
+* [cloudRunner](https://github.com/MarkEdmondson1234/cloudRunner): As easy as possible R scripts in the cloud, via Cloud Run, Cloud Build and Cloud Scheduler.
+* [cloud-run-compose](https://github.com/remorses/cloud-run-compose): Deploy docker-compose configurations to Cloud Run.
 
 ## CI/CD
 
