@@ -204,6 +204,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Cloud Run Button](https://github.com/GoogleCloudPlatform/cloud-run-button): Add a deploy button to a README to enable two-click deployment of a repo
 * [cloudRunner](https://github.com/MarkEdmondson1234/cloudRunner): As easy as possible R scripts in the cloud, via Cloud Run, Cloud Build and Cloud Scheduler.
 * [cloud-run-compose](https://github.com/remorses/cloud-run-compose): Deploy docker-compose configurations to Cloud Run.
+* 📰 [Pulumi](https://www.pulumi.com/blog/google-cloud-run-serverless-containers/): Build. deploy and manage Cloud Run services using your favorite language.
 
 ## CI/CD
 
