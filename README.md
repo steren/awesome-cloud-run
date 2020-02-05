@@ -130,6 +130,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📰 [Say hello to serverless containers with Cloud Run](https://medium.com/swlh/say-hello-to-serverless-containers-with-cloud-run-4c32d90330fc)
 * 📰 [Functions Framework on Cloud Run](https://medium.com/google-cloud/node-12-functions-on-cloud-run-d891dd93c7c8)
 * 📰 [5 compelling reasons to opt for serverless containers](https://geshan.com.np/blog/2019/11/why-use-google-cloud-run-5-compelling-reasons/)
+* [Google Cloud Run: What every IT Ops team should know](https://techbeacon.com/enterprise-it/google-cloud-run-what-every-it-ops-team-should-know)
 
 ## Tutorials
 
