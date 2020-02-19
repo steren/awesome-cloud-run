@@ -101,6 +101,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 * 📰 [Build and deploy serverless Node.js dockerized API](https://medium.com/@shivanshupatel_73549/build-and-deploy-serverless-dockerized-api-with-cloud-run-25021f76cf07)
 * 🎬 [Nuxt.js and Firebase Hosting](https://www.youtube.com/watch?v=3OP-q55hOUI) (video)
+* 📰 [NestJS on Google Cloud Run](https://whatdafox.com/deploy-nest-js-on-google-cloud-run/)
 * 📰 [Ruby on Rails real life example](https://medium.com/google-cloud/google-cloud-run-on-rails-a-real-life-example-part-1-preparing-the-ground-705c94ab8a7a)
 * 📰 [Rust REST API with Diesel, Rocket, and MySQL](https://cprimozic.net/blog/rust-rocket-cloud-run/)
 * 📰 [GraphQL API](https://blog.shanelee.name/2019/05/17/graphql-api-google-cloud-run/)
