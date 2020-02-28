@@ -45,7 +45,6 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📰 [Running a serverless Go web application](https://bartfokker.com/posts/cloud-run/)
   * 📦 [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
 * 📦 [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python)
-  * 📦 [FastAPI, PostgreSQL, Secrets Manager, and CloudBuild](https://github.com/anthcor/cloudrun-fastapi)
 * 📦 [Ruby](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-ruby)
 * 📦 PHP
   * 📦 [Hello World](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-php)
@@ -117,6 +116,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📰 [Python](https://dev.to/di/using-headless-chrome-with-cloud-run-3fdp)
   * 📦 [Node.js (with puppeteer)](https://github.com/as-a-service/screenshot/)
 * 📰 [Hosting Azure Functions in Google Cloud Run](https://mikhail.io/2020/02/azure-functions-in-google-cloud-run/)
+* 📦 [FastAPI, PostgreSQL, Secrets Manager, and Cloud Build](https://github.com/anthcor/cloudrun-fastapi)
 
 ## Articles
 
