@@ -12,7 +12,7 @@ Short link to product page: https://cloud.run
 
 Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackOverflow](https://stackoverflow.com/questions/tagged/google-cloud-run)
 
-*Legend*: 📙: doc, 📰: article, 📦: sample, 🎬: video, ✏️: interactive tutorial, :headphones: : audio
+*Legend*: 📙: doc, 📰: article, 📦: sample, 🎬: video, 🖼️: slides, ✏️: interactive tutorial, :headphones: : audio
 
 ## Documentation
 
@@ -135,7 +135,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📰 [5 compelling reasons to opt for serverless containers](https://geshan.com.np/blog/2019/11/why-use-google-cloud-run-5-compelling-reasons/)
 * 📰 [Google Cloud Run: What every IT Ops team should know](https://techbeacon.com/enterprise-it/google-cloud-run-what-every-it-ops-team-should-know)
 * 🎬 [From 0 to working Serverless URL for a Containerized app with Google Cloud Run](https://geshan.com.np/blog/2019/11/from-0-to-working-serverless-url-for-a-containerized-app-with-google-cloud-run-slides-and-video/)
-* 📽️ [Going Serverless with Google Cloud Run](https://www.bram.us/2020/03/05/going-serverless-with-google-cloud-run/)
+* 🖼️ [Going Serverless with Google Cloud Run](https://www.bram.us/2020/03/05/going-serverless-with-google-cloud-run/)
 
 ## Podcast episodes
 
@@ -288,4 +288,4 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 ### Meetup material
 
 * Cloud Run [hexagon logo](https://github.com/steren/awesome-cloudrun/blob/master/google-cloud-run-hexagon.svg)
-* Cloud Run Club [slide deck](https://docs.google.com/presentation/d/1TS0JTPNaqvyTMUjM7TAKaau0swyqpxonFmk1gww3sw0/edit?usp=sharing) (feel free to re-use it!)
+* 🖼️ Cloud Run Club [slide deck](https://docs.google.com/presentation/d/1TS0JTPNaqvyTMUjM7TAKaau0swyqpxonFmk1gww3sw0/edit?usp=sharing) (feel free to re-use it!)
