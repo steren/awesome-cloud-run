@@ -92,10 +92,13 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📦 [Nim](https://github.com/karur4n-sandbox/try-cloud-run-with-nim)
 * 📦 [Pascal](https://github.com/engelke/cloud-run-pascal)
 * Static files:
-  * 📦 [Static files](https://github.com/steren/static)
-  * 📰 [Static website in 5 minutes using nginx](https://medium.com/@aconchillo/google-cloud-run-or-how-to-run-your-static-website-in-5-minutes-and-much-more-dbe8f2804395).
-  * 📰 [How to Run a Static Site On Google Cloud Run?](https://medium.com/@maurycek/how-to-run-a-static-site-on-google-cloud-run-345713ca4b40)
-  * 📙 [Firebase Hosting](https://firebase.google.com/docs/hosting) is likely a better option
+  * [Firebase Hosting](https://firebase.google.com/docs/hosting) **Recommended** to serve static files from a CDN.
+    * 🎬 [Deploy Python on Firebase Hosting with Cloud Run - Firecasts](https://www.youtube.com/watch?v=t5EfITuFD9w)
+    * 📙 [Firebase Hosting and Cloud Run docs](https://firebase.google.com/docs/hosting/cloud-run)
+  * Other options serving files from the Cloud Run service (we recommend adding a CDN on top)
+    * 📦 [Static files](https://github.com/steren/static)
+    * 📰 [Static website in 5 minutes using nginx](https://medium.com/@aconchillo/google-cloud-run-or-how-to-run-your-static-website-in-5-minutes-and-much-more-dbe8f2804395).
+    * 📰 [How to Run a Static Site On Google Cloud Run?](https://medium.com/@maurycek/how-to-run-a-static-site-on-google-cloud-run-345713ca4b40)
 
 ### Popular stacks
 
