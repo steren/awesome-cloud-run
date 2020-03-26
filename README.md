@@ -32,6 +32,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * ✏️ [Hello Cloud Run Codelab](https://codelabs.developers.google.com/codelabs/cloud-run-hello) (use your own GCP account)
 * ✏️ [Hello Cloud Run Qwiklab](https://google.qwiklabs.com/focuses/5161?parent=catalog) (use temp Qwiklabs resources)
 * ✏️ [Cloud Run 101](https://instruqt.com/binxio/tracks/cloud-run-101) (no project needed)
+* ✏️ [Serverless Workshop Codelab](https://codelabs.developers.google.com/serverless-workshop/)
 
 ## Run popular languages and stacks
 
