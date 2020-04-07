@@ -280,6 +280,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📦 [DOOM on Cloud Run](https://github.com/matti/http-doom): Play DOOM over HTTP
 * 📦 [Python 1.x on Cloud Run](https://dev.to/di/ministry-of-silly-runtimes-vintage-python-on-cloud-run-3b9d)
 * 📦 [Fortran 90 on Cloud Run](https://github.com/zachmccormick/fortran-cloudrun)
+* 📦 [COBOL on Cloud Run](https://github.com/devries/cloud-run-cobol)
 * 📰 [45-year old Pascal program on Cloud Run](https://medium.com/google-cloud/serverless-computing-with-pascal-d7a16633db44)
 * 📦 [ih-aas](https://github.com/glasnt/ih-aas): Generate cross-stitch patterns from image uploads.
 
