@@ -123,6 +123,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📦 [Node.js (with puppeteer)](https://github.com/as-a-service/screenshot/)
 * 📰 [Hosting Azure Functions in Google Cloud Run](https://mikhail.io/2020/02/azure-functions-in-google-cloud-run/)
 * 📦 [FastAPI, PostgreSQL, Secrets Manager, and Cloud Build](https://github.com/anthcor/cloudrun-fastapi)
+* 📰 [Run your OpenFaaS Functions on Cloud Run for free](https://www.openfaas.com/blog/openfaas-cloudrun/)
 
 ## Articles
 
