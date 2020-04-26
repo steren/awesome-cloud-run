@@ -82,6 +82,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * C# and .NET
   * 📦 [C#](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-csharp)
   * 📰 [C# backend (for a Unity game)](https://medium.com/firebase-developers/how-to-write-a-c-backend-for-a-unity-game-using-firebase-and-googles-cloud-run-adebf79a57f)
+  * 📰 [Running with C# on GCP Cloud Run](https://medium.com/google-cloud/running-with-c-on-gcp-cloud-run-b83ca5d6fc53)
 * Swift
   * 📦 [helloworld-swift](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-swift)
   * 📦 [SwiftCloudRun](https://github.com/alfianlosari/SwiftCloudRun)
