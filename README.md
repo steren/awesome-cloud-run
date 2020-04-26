@@ -78,7 +78,9 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📦 [Elixir](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-elixir)
   * 🎬 [Elixir](https://www.youtube.com/watch?v=6Jo8WlWq-Fw)
 * 📦 [Haskell](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-haskell)
-* 📦 [Rust](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust)
+* Rust
+  * 📦 [Rust Knative sample](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rust)
+  * 📦 [Rust sample](https://github.com/gsquire/rust_bin)
 * C# and .NET
   * 📦 [C#](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-csharp)
   * 📰 [C# backend (for a Unity game)](https://medium.com/firebase-developers/how-to-write-a-c-backend-for-a-unity-game-using-firebase-and-googles-cloud-run-adebf79a57f)
