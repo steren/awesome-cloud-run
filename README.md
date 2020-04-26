@@ -68,7 +68,9 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * Quarkus:
     * 📰 [Quarkus tutorial](https://medium.com/@alexismp/deploying-a-quarkus-app-to-google-cloud-run-c4a8ca3be526)
     * 📦 [Quarkus with GraalVM](https://github.com/gunnarmorling/quarkus-pdf-extract) (extracting text from PDF files)
-* 📦 [Shell](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-shell)
+* Shell
+  * 📦 [Shell Knative sample](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-shell)
+  * 📦 [sh server](https://github.com/wietsevenema/sh-server/)
 * 📦 [Scala](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-scala)
 * 📦 [Clojure](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-clojure)
 * Dart
@@ -95,6 +97,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📦 [R Hello World](https://github.com/Jinksi/cloudrun-helloworld-r)
   * 📦 [R Knative Hello World](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-rserver)
   * 📰 [Serverless R functions with Cloud Run](https://ericjinks.com/blog/2019/08/serverless-R-cloud-run/)
+  * 📰 [Serverless Machine Learning with R on Cloud Run](https://www.r-bloggers.com/serverless-machine-learning-with-r-on-cloud-run/)
 * 📦 [Nim](https://github.com/karur4n-sandbox/try-cloud-run-with-nim)
 * 📦 [Pascal](https://github.com/engelke/cloud-run-pascal)
 * Static files:
@@ -146,6 +149,8 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📰 [Google Cloud Run: What every IT Ops team should know](https://techbeacon.com/enterprise-it/google-cloud-run-what-every-it-ops-team-should-know)
 * 🎬 [From 0 to working Serverless URL for a Containerized app with Google Cloud Run](https://geshan.com.np/blog/2019/11/from-0-to-working-serverless-url-for-a-containerized-app-with-google-cloud-run-slides-and-video/)
 * 🖼️ [Going Serverless with Google Cloud Run](https://www.bram.us/2020/03/05/going-serverless-with-google-cloud-run/)
+* 📰 [3 Reasons Why Google Cloud Run is Different](https://binx.io/blog/2019/11/15/three-reasons-why-google-cloud-run-is-different/)
+* 📰 [5 compelling reasons to opt for serverless containers](https://geshan.com.np/blog/2019/11/why-use-google-cloud-run-5-compelling-reasons/)
 
 ## Podcast episodes
 
@@ -178,6 +183,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 * 📰 [Help! I forgot to click "Allow unauthenticated invocations"](https://dev.to/googlecloud/help-i-forgot-to-click-allow-unauthenticated-invocations-on-google-cloud-run-2hoj)
 * 📰 [Using per service Identity and encrypting secrets](https://www.jhanley.com/google-cloud-run-identity/)
+* 📰 [Secret Manager: Improve Cloud Run security without changing the code](https://medium.com/google-cloud/secret-manager-improve-cloud-run-security-without-changing-the-code-634f60c541e6)
 * 📰 [Cloud Run with static outgoing IP](https://ahmet.im/blog/cloud-run-static-ip/)
 
 ### Local development
@@ -191,9 +197,12 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ### Networking
 
-* 📰 [Serverless gRPC with Cloud Run](https://medium.com/@petomalina/%EF%B8%8Fserverless-grpc-with-cloud-run-bab3622a47da)
-* 📰 [Authenticating with gRPC on Cloud Run](https://ahmet.im/blog/grpc-auth-cloud-run/)
-* 📰 [gRPC Authentication with Cloud Run](https://medium.com/google-cloud/grpc-authentication-with-cloud-run-72e4d6c44739)
+* gRPC
+  * 📰 [Serverless gRPC with Cloud Run](https://medium.com/@petomalina/%EF%B8%8Fserverless-grpc-with-cloud-run-bab3622a47da)
+  * 📰 [Authenticating with gRPC on Cloud Run](https://ahmet.im/blog/grpc-auth-cloud-run/)
+  * 📰 [gRPC Authentication with Cloud Run](https://medium.com/google-cloud/grpc-authentication-with-cloud-run-72e4d6c44739)
+  * 📰 [Cloud Run service with gRPC Using Spring Boot](https://medium.com/swlh/google-cloud-run-service-with-grpc-using-spring-boot-e43daf155752)
+  * 📰 [gRPC comes to Cloud Run](https://grpc.io/blog/grpc-cloud-run/)
 
 ## Help
 
