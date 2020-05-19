@@ -121,7 +121,9 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📰 [Apache NiFi workflows](https://medium.com/@pierre.villard/deploying-apache-nifi-workflows-on-google-cloud-run-8c0c988354f1)
 * 📰 [Camunda BPM](https://medium.com/@ruslanfg/run-camunda-bpm-on-google-cloud-run-ecc59dc9fbc4)
 * 📰 [Webmention](https://bitworking.org/news/2019/05/webmention-on-google-cloud-run)
-* 📰 [Wordpress](https://medium.com/@salvopappalardo/how-to-install-a-wordpress-site-on-google-cloud-run-828bdc0d0e96) 
+* Wordpress
+  * 📰 [Wordpress site on Google Cloud Run](https://medium.com/@salvopappalardo/how-to-install-a-wordpress-site-on-google-cloud-run-828bdc0d0e96) 
+  * 📰 [WordPress in a GCP Cloud Run instance with Cloud SQL](https://liftcodeplay.com/2020/02/15/how-to-install-wordpress-in-a-gcp-cloud-run-instance-with-cloud-sql/)
 * 📰 [Facebook chatbot](https://jeanklaas.com/blog/cloudrun-chatbot/)
 * 📰 [TensorFlow](https://medium.com/google-cloud/portable-prediction-with-tensorflow-and-cloud-run-669c1c73ebd1)
 * Headless Chrome
