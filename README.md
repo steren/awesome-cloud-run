@@ -162,6 +162,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 ## Tutorials
 
 * 📰+📦 [Step by step of many Cloud Run concepts](https://github.com/meteatamel/cloudrun-tutorial)
+* 🎬+📦 [Deploying a CI/CD Nuxt.js site in universal mode with Google Cloud Run and Cloud Build](https://youtu.be/WRIiZ6KkYL0)
 
 ### Containers
 
