@@ -291,6 +291,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📦 [microurl](https://github.com/thomasgassmann/microurl): Url shortener and code snippet sharing tool
 * 📦 [tweethingz](https://github.com/mchmarny/tweethingz): Twitter follower histogramc
 * 📦 [datastore-cleaner](https://github.com/steren/datastore-cleaner): Automatically clean up old Google Cloud Datastore entities.
+* 📦 [Domain redirector](https://github.com/ahmetb/serverless-url-redirect)
 
 ### Fun
 
