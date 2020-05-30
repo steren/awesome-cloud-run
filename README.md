@@ -207,6 +207,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📰 [gRPC Authentication with Cloud Run](https://medium.com/google-cloud/grpc-authentication-with-cloud-run-72e4d6c44739)
   * 📰 [Cloud Run service with gRPC Using Spring Boot](https://medium.com/swlh/google-cloud-run-service-with-grpc-using-spring-boot-e43daf155752)
   * 📰 [gRPC comes to Cloud Run](https://grpc.io/blog/grpc-cloud-run/)
+  * 📙 [Invoking with gRPC](https://cloud.google.com/run/docs/triggering/grpc)
 
 ## Help
 
