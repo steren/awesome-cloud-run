@@ -134,6 +134,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📦 [FastAPI, PostgreSQL, Secrets Manager, and Cloud Build](https://github.com/anthcor/cloudrun-fastapi)
 * 📰 [OpenFaaS Functions on Cloud Run for free](https://www.openfaas.com/blog/openfaas-cloudrun/)
 * 📰 [Ghost](https://parondeau.com/blog/self-hosting-ghost-gcp)
+
 ## Articles
 
 * 📰 [Cloud Run: Bringing serverless to containers](https://cloud.google.com/blog/products/serverless/cloud-run-bringing-serverless-to-containers)
@@ -296,6 +297,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📦 [tweethingz](https://github.com/mchmarny/tweethingz): Twitter follower histogramc
 * 📦 [datastore-cleaner](https://github.com/steren/datastore-cleaner): Automatically clean up old Google Cloud Datastore entities.
 * 📦 [Domain redirector](https://github.com/ahmetb/serverless-url-redirect)
+* 📦 [Badger](https://github.com/kelseyhightower/badger) generates build status images based on Cloud Build status info.
 
 ### Fun
 
