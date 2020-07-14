@@ -201,7 +201,9 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 🛠️ [App Engine to Cloud Run migration tool](https://googlecloudplatform.github.io/app-engine-cloud-run-converter/)
 * 📰 [Migrating Node.js apps from Heroku to Cloud Run](https://cloud.google.com/solutions/migrating-nodejs-apps-from-heroku-to-cloud-run)
 
-### Networking
+### Networking and load balancing
+
+* 📰 [Multi Region Load Balancing with GO and Google Cloud Run](https://medium.com/@bitniftee/multi-region-load-balancing-with-go-and-google-cloud-run-part-1-c2a2e39ce022)
 
 * gRPC
   * 📰 [Serverless gRPC with Cloud Run](https://medium.com/@petomalina/%EF%B8%8Fserverless-grpc-with-cloud-run-bab3622a47da)
