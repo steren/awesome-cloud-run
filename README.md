@@ -281,8 +281,6 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ### Useful
 
-* 📦 [hasura](https://github.com/n3n/hasura-cloud-run): GraphQL server.
-* 📦 [oddo](https://github.com/n3n/odoo-starter): Open Source ERP 
 * 📦 [pdf](https://github.com/as-a-service/pdf): Transform Word documents to PDF.
 * 📦 [screenshot](https://github.com/as-a-service/screenshot): Take screenshots of webpages using Chromium via puppeteer
 * 📦 [render](https://github.com/as-a-service/render): Render a Blender 3D scene with custom text.
@@ -302,6 +300,8 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📦 [datastore-cleaner](https://github.com/steren/datastore-cleaner): Automatically clean up old Google Cloud Datastore entities.
 * 📦 [Domain redirector](https://github.com/ahmetb/serverless-url-redirect)
 * 📦 [Badger](https://github.com/kelseyhightower/badger) generates build status images based on Cloud Build status info.
+* 📦 [hasura](https://github.com/n3n/hasura-cloud-run): GraphQL server.
+* 📦 [oddo](https://github.com/n3n/odoo-starter): Open Source ERP 
 
 ### Fun
 
