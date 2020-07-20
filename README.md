@@ -301,7 +301,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📦 [Domain redirector](https://github.com/ahmetb/serverless-url-redirect)
 * 📦 [Badger](https://github.com/kelseyhightower/badger) generates build status images based on Cloud Build status info.
 * 📦 [hasura](https://github.com/n3n/hasura-cloud-run): GraphQL server.
-* 📦 [oddo](https://github.com/n3n/odoo-starter): Open Source ERP 
+* 📦 [odoo](https://github.com/n3n/odoo-starter): Open Source ERP 
 
 ### Fun
 
