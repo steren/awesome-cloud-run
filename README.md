@@ -159,10 +159,6 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📰+📦 [Step by step of many Cloud Run concepts](https://github.com/meteatamel/cloudrun-tutorial)
 * 🎬+📦 [Deploying a CI/CD Nuxt.js site in universal mode with Google Cloud Run and Cloud Build](https://youtu.be/WRIiZ6KkYL0)
 
-### Containers
-
-* 📰 [Multiple processes in a container](https://ahmet.im/blog/cloud-run-multiple-processes-easy-way/)
-
 ### Private microservices
 
 * 📰 [Making requests with a Service Account](https://medium.com/@zdenulo/making-requests-to-cloud-run-with-the-service-account-620014dc1486)
@@ -209,7 +205,6 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 * 📰 [Serving users from multiple regions with Cloud Run](https://ahmet.im/blog/cloud-run-multi-region/)
 * 📰 [Multi Region Load Balancing with GO and Google Cloud Run](https://medium.com/@bitniftee/multi-region-load-balancing-with-go-and-google-cloud-run-part-1-c2a2e39ce022)
-
 * gRPC
   * 📰 [Serverless gRPC with Cloud Run](https://medium.com/@petomalina/%EF%B8%8Fserverless-grpc-with-cloud-run-bab3622a47da)
   * 📰 [Authenticating with gRPC on Cloud Run](https://ahmet.im/blog/grpc-auth-cloud-run/)
