@@ -147,6 +147,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 🖼️ [Going Serverless with Google Cloud Run](https://www.bram.us/2020/03/05/going-serverless-with-google-cloud-run/)
 * 📰 [3 Reasons Why Google Cloud Run is Different](https://binx.io/blog/2019/11/15/three-reasons-why-google-cloud-run-is-different/)
 * 📰 [5 compelling reasons to opt for serverless containers](https://geshan.com.np/blog/2019/11/why-use-google-cloud-run-5-compelling-reasons/)
+* 📰 Cloud Run vs. AWS Lambda: Is Cloud Run a Serverless Game Changer? [Part 1](https://iamondemand.com/blog/google-cloud-run-vs-aws-lambda-is-cloud-run-a-serverless-game-changer-part-1/), [Part 2](https://iamondemand.com/blog/google-cloud-run-vs-aws-lambda-performance-benchmarks-part-2/), [Part 3](https://iamondemand.com/blog/google-cloud-run-vs-aws-lambda-is-cloud-run-a-serverless-game-changer-part-3/)
 
 ## Podcast episodes
 
@@ -190,6 +191,10 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📰 [Secret Manager: Improve Cloud Run security without changing the code](https://medium.com/google-cloud/secret-manager-improve-cloud-run-security-without-changing-the-code-634f60c541e6)
 * 📰 [Cloud Run with static outgoing IP](https://ahmet.im/blog/cloud-run-static-ip/)
 
+### Storing Data
+
+* 📰 [Using Memorystore with Cloud Run](https://medium.com/google-cloud/using-memorystore-with-cloud-run-82e3d61df016)
+
 ### Local development
 
 * 📙 [Using Docker](https://cloud.google.com/run/docs/testing/local)
@@ -202,6 +207,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ### Networking and load balancing
 
+* 📰 [Serving users from multiple regions with Cloud Run](https://ahmet.im/blog/cloud-run-multi-region/)
 * 📰 [Multi Region Load Balancing with GO and Google Cloud Run](https://medium.com/@bitniftee/multi-region-load-balancing-with-go-and-google-cloud-run-part-1-c2a2e39ce022)
 
 * gRPC
