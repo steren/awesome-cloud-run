@@ -101,14 +101,6 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📰 [Serverless Machine Learning with R on Cloud Run](https://www.r-bloggers.com/serverless-machine-learning-with-r-on-cloud-run/)
 * 📦 [Nim](https://github.com/karur4n-sandbox/try-cloud-run-with-nim)
 * 📦 [Pascal](https://github.com/engelke/cloud-run-pascal)
-* Static files:
-  * [Firebase Hosting](https://firebase.google.com/docs/hosting) **Recommended** to serve static files from a CDN.
-    * 🎬 [Deploy Python on Firebase Hosting with Cloud Run - Firecasts](https://www.youtube.com/watch?v=t5EfITuFD9w)
-    * 📙 [Firebase Hosting and Cloud Run docs](https://firebase.google.com/docs/hosting/cloud-run)
-  * Other options serving files from the Cloud Run service (we recommend adding a CDN on top)
-    * 📦 [Static files](https://github.com/steren/static)
-    * 📰 [Static website in 5 minutes using nginx](https://medium.com/@aconchillo/google-cloud-run-or-how-to-run-your-static-website-in-5-minutes-and-much-more-dbe8f2804395).
-    * 📰 [How to Run a Static Site On Google Cloud Run?](https://medium.com/@maurycek/how-to-run-a-static-site-on-google-cloud-run-345713ca4b40)
 
 ### Popular stacks
 
@@ -183,6 +175,13 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📰 [Using Cloud Run as a webhook for Actions on Google](https://medium.com/google-developers/using-cloud-run-as-a-webhook-for-actions-on-google-792b58694651?linkId=67861967)
 * 📰 [Use Cloud Run to pre-process raw events from PubSub and publish them to new topic](https://github.com/mchmarny/preprocessd)
 * 📰 [(hack) Run long background tasks](https://blog.doit-intl.com/hacking-google-cloud-run-to-run-long-background-tasks-6eb410259a81) (not recommended)
+
+### CDN / Static file hosting
+
+* 📰 [Firebase hosting and Cloud Run cache](https://www.theverge.com/2020/7/25/21336017/fox-sports-baseball-virtual-fans-epic-unreal-engine-empty-stadiums-mlb)
+* 🎬 [Deploy Python on Firebase Hosting with Cloud Run - Firecasts](https://www.youtube.com/watch?v=t5EfITuFD9w)
+* 📙 [Firebase Hosting and Cloud Run docs](https://firebase.google.com/docs/hosting/cloud-run)
+* 📙 [Cloud CDN](https://cloud.google.com/cdn/) via [Cloud Load Balancing](https://cloud.google.com/load-balancing) and [Serverless NEGs](https://cloud.google.com/load-balancing/docs/negs/setting-up-serverless-negs)
 
 ### Security
 
