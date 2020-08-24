@@ -21,6 +21,9 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 🎬 [Playlist of recommended Cloud Run videos](https://www.youtube.com/playlist?list=PLyAgaU37vE7S_Jjt8p6tL1LLmwKziRZjl)
 * 🎬 [Serverless Toolbox Playlist](https://www.youtube.com/playlist?list=PLIivdWyY5sqKiWvnaA5A8F3UQ0Xu5i49U)
 
+### Serverless explained using Cloud Run - Playlist
+* 🎬 [Awesome Serverless using Google Cloud Run](https://www.youtube.com/playlist?list=PL5uLNcv9SibCId804-nYPqQT4-RNpbRdN)
+
 ### Quickstarts
 
 * 📙 2min: [Deploy a prebuilt sample container](https://cloud.google.com/run/docs/quickstarts/prebuilt-deploy)
