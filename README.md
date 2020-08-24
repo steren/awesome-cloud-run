@@ -18,11 +18,6 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 * 📙 [Official Documentation](https://cloud.google.com/run/docs/)
 * 📰 [Community driven FAQ](https://github.com/ahmetb/cloud-run-faq#readme)
-* 🎬 [Playlist of recommended Cloud Run videos](https://www.youtube.com/playlist?list=PLyAgaU37vE7S_Jjt8p6tL1LLmwKziRZjl)
-* 🎬 [Serverless Toolbox Playlist](https://www.youtube.com/playlist?list=PLIivdWyY5sqKiWvnaA5A8F3UQ0Xu5i49U)
-
-### Serverless explained using Cloud Run - Playlist
-* 🎬 [Awesome Serverless using Google Cloud Run](https://www.youtube.com/playlist?list=PL5uLNcv9SibCId804-nYPqQT4-RNpbRdN)
 
 ### Quickstarts
 
@@ -151,6 +146,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📰 [3 Reasons Why Google Cloud Run is Different](https://binx.io/blog/2019/11/15/three-reasons-why-google-cloud-run-is-different/)
 * 📰 [5 compelling reasons to opt for serverless containers](https://geshan.com.np/blog/2019/11/why-use-google-cloud-run-5-compelling-reasons/)
 * 📰 Cloud Run vs. AWS Lambda: Is Cloud Run a Serverless Game Changer? [Part 1](https://iamondemand.com/blog/google-cloud-run-vs-aws-lambda-is-cloud-run-a-serverless-game-changer-part-1/), [Part 2](https://iamondemand.com/blog/google-cloud-run-vs-aws-lambda-performance-benchmarks-part-2/), [Part 3](https://iamondemand.com/blog/google-cloud-run-vs-aws-lambda-is-cloud-run-a-serverless-game-changer-part-3/)
+* 🎬 [Awesome Serverless using Google Cloud Run](https://www.youtube.com/playlist?list=PL5uLNcv9SibCId804-nYPqQT4-RNpbRdN)
 
 ## Podcast episodes
 
