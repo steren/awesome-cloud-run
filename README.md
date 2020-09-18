@@ -226,6 +226,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * [Buildpacks](https://buildpacks.io/): `pack build` to transform apps in popular languages to container images.
 * Java [Jib](https://github.com/GoogleContainerTools/jib): Build container images for your Java applications.
 * R [containerit](https://o2r.info/containerit/): Package R script/session/workspace and all dependencies as a Docker container.
+* [kontain.me](http://kontain.me/) to build container images on the fly from GitHub, Go packages, or mirror DockerHub 
 
 ### Container guides
 
