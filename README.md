@@ -147,7 +147,6 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📰 [5 compelling reasons to opt for serverless containers](https://geshan.com.np/blog/2019/11/why-use-google-cloud-run-5-compelling-reasons/)
 * 📰 Cloud Run vs. AWS Lambda: Is Cloud Run a Serverless Game Changer? [Part 1](https://iamondemand.com/blog/google-cloud-run-vs-aws-lambda-is-cloud-run-a-serverless-game-changer-part-1/), [Part 2](https://iamondemand.com/blog/google-cloud-run-vs-aws-lambda-performance-benchmarks-part-2/), [Part 3](https://iamondemand.com/blog/google-cloud-run-vs-aws-lambda-is-cloud-run-a-serverless-game-changer-part-3/)
 * 🎬 [Awesome Serverless using Google Cloud Run](https://www.youtube.com/playlist?list=PL5uLNcv9SibCId804-nYPqQT4-RNpbRdN)
-* 📰 [Hosting Telegram bots on Cloud Run for free](https://nullonerror.org/2021/01/08/hosting-telegram-bots-on-google-cloud-run/)
 
 ## Podcast episodes
 
@@ -304,6 +303,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📦 [Badger](https://github.com/kelseyhightower/badger) generates build status images based on Cloud Build status info.
 * 📦 [hasura](https://github.com/n3n/hasura-cloud-run): GraphQL server.
 * 📦 [odoo](https://github.com/n3n/odoo-starter): Open Source ERP 
+* 📰 [Telegram bots on Cloud Run](https://nullonerror.org/2021/01/08/hosting-telegram-bots-on-google-cloud-run/)
 
 ### Fun
 
