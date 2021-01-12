@@ -185,7 +185,8 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📰 [Using per service Identity and encrypting secrets](https://www.jhanley.com/google-cloud-run-identity/)
 * 📰 [Secret Manager: Improve Cloud Run security without changing the code](https://medium.com/google-cloud/secret-manager-improve-cloud-run-security-without-changing-the-code-634f60c541e6)
 * 📰 [Cloud Run with static outgoing IP](https://ahmet.im/blog/cloud-run-static-ip/)
-* 📦 [Vault on Cloud Run](https://github.com/mbrancato/terraform-google-vault)
+* 📦 [Vault on Cloud Run (using Terraform)](https://github.com/mbrancato/terraform-google-vault)
+* 📦 [Vault on Cloud Run] https://github.com/kelseyhightower/serverless-vault-with-cloud-run
 
 ### Storing Data
 
