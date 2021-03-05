@@ -150,7 +150,6 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ## Podcast episodes
 
-* :headphones: [Serverless Chats - Episode #22: Serverless Containers on Google Cloud Run with Bret McGowen](https://www.serverlesschats.com/22)
 * :headphones: [GCP Podcast - Episode 173. Cloud Run with Steren Giannini and Ryan Gregg](https://www.gcppodcast.com/post/episode-173-cloud-run/)
 
 ## Tutorials
