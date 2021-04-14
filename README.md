@@ -204,6 +204,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 ### Networking and load balancing
 
 * 📰 [Serving users from multiple regions with Cloud Run](https://ahmet.im/blog/cloud-run-multi-region/)
+* 🛠️ [runsd](https://github.com/ahmetb/runsd): Service discovery (unofficial tool) 
 * 📰 [Multi Region Load Balancing with GO and Google Cloud Run](https://medium.com/@bitniftee/multi-region-load-balancing-with-go-and-google-cloud-run-part-1-c2a2e39ce022)
 * gRPC
   * 📰 [Serverless gRPC with Cloud Run](https://medium.com/@petomalina/%EF%B8%8Fserverless-grpc-with-cloud-run-bab3622a47da)
