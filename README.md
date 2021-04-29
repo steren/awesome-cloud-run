@@ -321,7 +321,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 * 📙 [REST API Reference](https://cloud.google.com/run/docs/reference/rest/)
 * 📰 [Understanding the APIs](https://www.jhanley.com/google-cloud-run-deep-dive-understanding-the-apis-part-1/)
-* 📰 [knative.tips](https://knative.tips/) Pragmatic, example-oriented introduction to Knative API
+* 📰 [Deploying using Go](https://ahmet.im/blog/cloud-run-deploy-api/)
 
 ## Meetups
 
