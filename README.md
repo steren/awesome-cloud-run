@@ -56,7 +56,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📦 [Kotlin with Ktor](https://github.com/jamesward/hello-kotlin-ktor)
   * 📦 [Kotlin Spring Boot](https://github.com/jamesward/hello-kotlin-springboot)
 * Java:
-  * 📦 [Spring Boot](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-java)
+  * 📦 [Spring Boot](https://github.com/knative/docs/tree/main/docs/serving/samples/hello-world/helloworld-java-spring)
   * 📦 [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run)
   * 📦 [Micronaut with GraalVM](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run-graal)
   * 📦 [Micronaut with GraalVM](https://github.com/jamesward/hello-micronaut/tree/graalvm)
