@@ -40,7 +40,9 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📦 [Hello World](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-nodejs)
   * 📦 [Node.js and Cloud SQL](https://github.com/jamesward/nodebars)
   * 📰 [Node.js web app](https://thenewstack.io/tutorial-deploying-a-web-application-on-google-cloud-run/)
-* 📰 [Deno](https://medium.com/google-cloud/deno-on-cloud-run-89ae64d1664d)
+* Deno
+  * 📰 [Deno on Cloud Run](https://medium.com/google-cloud/deno-on-cloud-run-89ae64d1664d)
+  * 📰 [Deploy a Dockerized Deno App to Google Cloud Run](https://scalablescripts.medium.com/how-to-deploy-a-dockerized-deno-app-to-google-cloud-run-96f233394a26)
 * Go 
   * 📰 [Running a serverless Go web application](https://bartfokker.com/posts/cloud-run/)
   * 📦 [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
@@ -173,10 +175,11 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ### CDN / Static file hosting
 
-* 📰 [Firebase hosting and Cloud Run cache](https://www.theverge.com/2020/7/25/21336017/fox-sports-baseball-virtual-fans-epic-unreal-engine-empty-stadiums-mlb)
-* 🎬 [Deploy Python on Firebase Hosting with Cloud Run - Firecasts](https://www.youtube.com/watch?v=t5EfITuFD9w)
 * 📙 [Firebase Hosting and Cloud Run docs](https://firebase.google.com/docs/hosting/cloud-run)
+* 📰 [Firebase hosting and Cloud Run cache](https://medium.com/google-cloud/firebase-hosting-and-cloud-run-cache-38afa6bd4beb)
+* 🎬 [Deploy Python on Firebase Hosting with Cloud Run - Firecasts](https://www.youtube.com/watch?v=t5EfITuFD9w)
 * 📙 [Cloud CDN](https://cloud.google.com/cdn/) via [Cloud Load Balancing](https://cloud.google.com/load-balancing) and [Serverless NEGs](https://cloud.google.com/load-balancing/docs/negs/setting-up-serverless-negs)
+* 📰 [Fastify on Google Cloud Run](https://www.nearform.com/blog/using-fastify-on-google-cloud-run/)
 
 ### Security
 
@@ -189,7 +192,11 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ### Storing Data
 
+* 📰 [Cloud Run & CockroachDB Serverless](https://jbrandhorst.com/post/serverless-application-stack/)
 * 📰 [Using Memorystore with Cloud Run](https://medium.com/google-cloud/using-memorystore-with-cloud-run-82e3d61df016)
+* 📰 [Mount a file as a volume in Cloud Run](https://medium.com/google-cloud/mount-a-file-as-a-volume-in-cloud-run-facc74c02cc6)
+* 📙 [Using Filestore with Cloud Run tutorial](https://cloud.google.com/run/docs/tutorials/network-filesystems-filestore)
+* 📙 [Using Cloud Storage FUSE with Cloud Run tutorial](https://cloud.google.com/run/docs/tutorials/network-filesystems-fuse)
 
 ### Local development
 
@@ -199,6 +206,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 ### Migration
 
 * 🛠️ [App Engine to Cloud Run migration tool](https://googlecloudplatform.github.io/app-engine-cloud-run-converter/)
+* 📰 [Moving App Engine apps to Cloud Run](https://developers.googleblog.com/2021/09/an-easier-way-to-move-your-app-engine-to-cloud-run.html)
 * 📰 [Migrating Node.js apps from Heroku to Cloud Run](https://cloud.google.com/solutions/migrating-nodejs-apps-from-heroku-to-cloud-run)
 
 ### Networking and load balancing
@@ -308,6 +316,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📦 [odoo](https://github.com/n3n/odoo-starter): Open Source ERP 
 * 📰 [Telegram bots on Cloud Run](https://nullonerror.org/2021/01/08/hosting-telegram-bots-on-google-cloud-run/)
 * 📦 [LogPaste](https://github.com/mtlynch/logpaste) A minimalist web service for uploading and sharing log files. ([installation instructions](https://github.com/mtlynch/logpaste/blob/master/docs/deployment/cloud-run.md))
+* 📰 [Bokeh](https://yogesh.replnotes.com/posts/deploy-bokeh-cloud-run)
 
 ### Fun
 
