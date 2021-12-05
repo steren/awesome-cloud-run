@@ -47,7 +47,9 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📰 [Running a serverless Go web application](https://bartfokker.com/posts/cloud-run/)
   * 📦 [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
 * 📦 [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python)
-* 📦 [Ruby](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-ruby)
+* Ruby
+  * 📦 [Ruby sample](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-ruby)
+  * 📙 [Running Rails on the Cloud Run](https://cloud.google.com/ruby/rails/run)
 * 📦 PHP
   * 📦 [Hello World](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-php)
   * 📦 [Laravel](https://github.com/kooooohe/LaravelOnCloudRunDevKit/tree/master)
@@ -101,6 +103,9 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📰 [Serverless Machine Learning with R on Cloud Run](https://www.r-bloggers.com/serverless-machine-learning-with-r-on-cloud-run/)
 * 📦 [Nim](https://github.com/karur4n-sandbox/try-cloud-run-with-nim)
 * 📦 [Pascal](https://github.com/engelke/cloud-run-pascal)
+* C++
+  - 📦 [C++ Hello World](https://github.com/GoogleCloudPlatform/cpp-samples/tree/main/cloud-run-hello-world)
+  - 📰 [C++ Functions Framework](https://medium.com/google-cloud/c-functions-framework-21f327fdee16)
 
 ### Popular stacks
 
@@ -126,6 +131,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📦 [FastAPI, PostgreSQL, Secrets Manager, and Cloud Build](https://github.com/anthcor/cloudrun-fastapi)
 * 📰 [OpenFaaS Functions on Cloud Run for free](https://www.openfaas.com/blog/openfaas-cloudrun/)
 * 📰 [Ghost](https://parondeau.com/blog/self-hosting-ghost-gcp)
+* 📰 [React + Flask](https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project)
 
 ## Articles
 
@@ -152,7 +158,10 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 ## Podcast episodes
 
-* :headphones: [GCP Podcast - Episode 173. Cloud Run with Steren Giannini and Ryan Gregg](https://www.gcppodcast.com/post/episode-173-cloud-run/)
+* :headphones: [GCP Podcast - Cloud Run with Steren Giannini and Ryan Gregg](https://www.gcppodcast.com/post/episode-173-cloud-run/)
+* :headphones: [GCP Podcast - Serverless, Redefined with Jason Polites](https://www.gcppodcast.com/post/episode-286-serverless-redefined-with-jason-polites/)
+* :headphones: [Software Engineering Daily - Cloud Run: Serverless Applications with Steren Giannini](https://softwareengineeringdaily.com/2021/08/12/cloud-run-serverless-applications-with-steren-giannini/)
+* :headphones: [Software Engineering Daily -Serverless Runtimes with Steren Giannini](https://softwareengineeringdaily.com/2019/04/22/serverless-runtimes-with-steren-giannini/)
 
 ## Tutorials
 
@@ -237,6 +246,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * Java [Jib](https://github.com/GoogleContainerTools/jib): Build container images for your Java applications.
 * R [containerit](https://o2r.info/containerit/): Package R script/session/workspace and all dependencies as a Docker container.
 * [kontain.me](http://kontain.me/) to build container images on the fly from GitHub, Go packages, or mirror DockerHub 
+* [Ship your Go applications faster to Cloud Run with ko](https://cloud.google.com/blog/topics/developers-practitioners/ship-your-go-applications-faster-cloud-run-ko)
 
 ### Container guides
 
@@ -279,6 +289,10 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   - 📰 [Publish your Cloud Run App with GitHub Actions](https://medium.com/better-programming/publish-your-cloud-run-app-with-github-actions-6c18ff5c5ee4)
   - 📰 [Automate Cloud Run deployment in a minute (with GitHub actions)](https://medium.com/@ujwaldhakal/automate-cloud-run-deployment-in-a-minute-cb85e7db9f82)
    - [Github Action for Google Cloud Run](https://github.com/marketplace/actions/cloud-run)
+* [Serverless Jenkins Pipelines with Cloud Run](https://blog.csanchez.org/2021/06/15/serverless-jenkins-pipelines-with-google-cloud-run/)
+* Terraform
+  - 📙 [Google Cloud Secret Manager](https://cloud.google.com/secret-manager): **Recommended** Use its client libraries to consume secre[`google_cloud_run_service` terraform resource](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/cloud_run_service)
+  - 📰 [Using Terraform To Deploy Application On Google Cloud Run With CI/CD And API Gateway](https://faun.pub/using-terraform-to-deploy-application-on-google-cloud-run-with-ci-cd-and-api-gateway-9857f0ef820)
 
 ## Integrations
 
@@ -317,6 +331,8 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📰 [Telegram bots on Cloud Run](https://nullonerror.org/2021/01/08/hosting-telegram-bots-on-google-cloud-run/)
 * 📦 [LogPaste](https://github.com/mtlynch/logpaste) A minimalist web service for uploading and sharing log files. ([installation instructions](https://github.com/mtlynch/logpaste/blob/master/docs/deployment/cloud-run.md))
 * 📰 [Bokeh](https://yogesh.replnotes.com/posts/deploy-bokeh-cloud-run)
+* 📰 [Server-Side Google Tag Manager](https://developer.squareup.com/blog/deploying-server-side-google-tag-manager-on-cloud-run/)
+* 📰 [Bazel remote cache on Google Cloud Run & Storage](https://blog.zen.ly/fast-cheap-and-globally-accessible-bazel-remote-cache-on-google-cloud-run-storage-282e908df514)
 
 ### Fun
 
