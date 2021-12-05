@@ -307,6 +307,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📦 [hasura](https://github.com/n3n/hasura-cloud-run): GraphQL server.
 * 📦 [odoo](https://github.com/n3n/odoo-starter): Open Source ERP 
 * 📰 [Telegram bots on Cloud Run](https://nullonerror.org/2021/01/08/hosting-telegram-bots-on-google-cloud-run/)
+* 📦 [LogPaste](https://github.com/mtlynch/logpaste) A minimalist web service for uploading and sharing log files. ([installation instructions](https://github.com/mtlynch/logpaste/blob/master/docs/deployment/cloud-run.md))
 
 ### Fun
 
