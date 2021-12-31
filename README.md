@@ -182,6 +182,14 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📰 [Use Cloud Run to pre-process raw events from PubSub and publish them to new topic](https://github.com/mchmarny/preprocessd)
 * 📰 [(hack) Run long background tasks](https://blog.doit-intl.com/hacking-google-cloud-run-to-run-long-background-tasks-6eb410259a81) (not recommended)
 
+### Custom domain
+
+* Use [Firebase Hosting](https://firebase.google.com/docs/hosting) (Recommended for side projects, free of charge)
+  - 📙 [Add Cloud Run to your Firebase Hosting config](https://firebase.google.com/docs/hosting/cloud-run)
+  - 🛠️ [Script](https://gist.github.com/steren/03d3e58c58c9a53fd49bb78f58541872) to set up Firebase Hosting in front of Cloud Run without using the firebase CLI
+* Use a [Global External HTTPS Load Balancer](https://cloud.google.com/load-balancing/docs/https/setup-global-ext-https-serverless) (Recommended for production setup)
+* Use [Cloud Run Domain Mappings](https://cloud.google.com/run/docs/mapping-custom-domains) (Limited availability, in Preview)
+
 ### CDN / Static file hosting
 
 * 📙 [Firebase Hosting and Cloud Run docs](https://firebase.google.com/docs/hosting/cloud-run)
