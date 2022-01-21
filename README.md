@@ -59,6 +59,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📦 [Kotlin Knative sample](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-kotlin)
   * 📦 [Kotlin with Ktor](https://github.com/jamesward/hello-kotlin-ktor)
   * 📦 [Kotlin Spring Boot](https://github.com/jamesward/hello-kotlin-springboot)
+  * 🎬 [Go full-stack with Kotlin or Dart on Google Cloud](https://www.youtube.com/watch?v=JwCmu_INnCg)
 * Java:
   * 📦 [Spring Boot](https://github.com/knative/docs/tree/main/docs/serving/samples/hello-world/helloworld-java-spring)
   * 📦 [Micronaut sample](https://github.com/micronaut-projects/micronaut-gcp/tree/master/examples/hello-world-cloud-run)
@@ -79,6 +80,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * Dart
   * 📦 [Dart](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-dart)
   * 📰 [Dart is ready for FaaS with Cloud Run](https://medium.com/yakka/dart-is-ready-for-faas-with-cloud-run-fb069abb3176)
+  * 🎬 [Go full-stack with Kotlin or Dart on Google Cloud](https://www.youtube.com/watch?v=JwCmu_INnCg)
 * Elixir: 
   * 📦 [Elixir](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-elixir)
   * 🎬 [Elixir](https://www.youtube.com/watch?v=6Jo8WlWq-Fw)
