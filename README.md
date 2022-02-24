@@ -24,12 +24,17 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📙 2min: [Deploy a prebuilt sample container](https://cloud.google.com/run/docs/quickstarts/prebuilt-deploy)
 * 📙 10min: [Build and deploy your favorite language](https://cloud.google.com/run/docs/quickstarts/build-and-deploy) (includes many samples and Dockerfiles)
 
+### Courses
+
+* ✏️+📦 [Qwiklabs Course - Application Development with Cloud Run](https://www.qwiklabs.com/course_templates/371)
+* ✏️+📦 [Coursera Course - Application Development with Cloud Run](https://www.coursera.org/learn/application-development-with-cloud-run)
+* ✏️+📦 [Pluralsight Course - Application Development with Cloud Run](https://www.pluralsight.com/courses/application-development-cloud-run)
+
 ### Interactive tutorials
 
 * ✏️ [Serverless quest on Google Cloud training](https://google.qwiklabs.com/quests/98)
 * ✏️ [Hello Cloud Run Codelab](https://codelabs.developers.google.com/codelabs/cloud-run-hello) (use your own GCP account)
 * ✏️ [Hello Cloud Run Qwiklab](https://www.qwiklabs.com/focuses/5162) (use temp Qwiklabs resources)
-* ✏️ [Application Development with Cloud Run](https://www.qwiklabs.com/course_templates/371) (use temp Qwiklabs resources)
 * ✏️ [Serverless Workshop Codelab](https://codelabs.developers.google.com/serverless-workshop/)
 
 ## Run popular languages and stacks
@@ -305,6 +310,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * Terraform
   - 📙 [Google Cloud Secret Manager](https://cloud.google.com/secret-manager): **Recommended** Use its client libraries to consume secre[`google_cloud_run_service` terraform resource](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/cloud_run_service)
   - 📰 [Using Terraform To Deploy Application On Google Cloud Run With CI/CD And API Gateway](https://faun.pub/using-terraform-to-deploy-application-on-google-cloud-run-with-ci-cd-and-api-gateway-9857f0ef820)
+  * [Cloud Run Release Manager](https://github.com/GoogleCloudPlatform/cloud-run-release-manager): provides an automated way to gradually roll out new versions of your Cloud Run services. By using metrics, it automatically decides to slowly increase traffic to a new version or roll back to the previous one.
 
 ## Integrations
 
