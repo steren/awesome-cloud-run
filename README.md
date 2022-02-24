@@ -170,6 +170,9 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 * 📰+📦 [Step by step of many Cloud Run concepts](https://github.com/meteatamel/cloudrun-tutorial)
 * 🎬+📦 [Deploying a CI/CD Nuxt.js site in universal mode with Google Cloud Run and Cloud Build](https://youtu.be/WRIiZ6KkYL0)
+* ✏️+📦 [Qwiklabs Course - Application Development with Cloud Run](https://www.qwiklabs.com/course_templates/371)
+* ✏️+📦 [Coursera Course - Application Development with Cloud Run](https://www.coursera.org/learn/application-development-with-cloud-run)
+* ✏️+📦 [Pluralsight Course - Application Development with Cloud Run](https://www.pluralsight.com/courses/application-development-cloud-run)
 
 ### Private microservices
 
@@ -305,6 +308,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * Terraform
   - 📙 [Google Cloud Secret Manager](https://cloud.google.com/secret-manager): **Recommended** Use its client libraries to consume secre[`google_cloud_run_service` terraform resource](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/cloud_run_service)
   - 📰 [Using Terraform To Deploy Application On Google Cloud Run With CI/CD And API Gateway](https://faun.pub/using-terraform-to-deploy-application-on-google-cloud-run-with-ci-cd-and-api-gateway-9857f0ef820)
+  * [Cloud Run Release Manager](https://github.com/GoogleCloudPlatform/cloud-run-release-manager): provides an automated way to gradually roll out new versions of your Cloud Run services. By using metrics, it automatically decides to slowly increase traffic to a new version or roll back to the previous one.
 
 ## Integrations
 
