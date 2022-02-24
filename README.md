@@ -24,12 +24,17 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📙 2min: [Deploy a prebuilt sample container](https://cloud.google.com/run/docs/quickstarts/prebuilt-deploy)
 * 📙 10min: [Build and deploy your favorite language](https://cloud.google.com/run/docs/quickstarts/build-and-deploy) (includes many samples and Dockerfiles)
 
+### Courses
+
+* ✏️+📦 [Qwiklabs Course - Application Development with Cloud Run](https://www.qwiklabs.com/course_templates/371)
+* ✏️+📦 [Coursera Course - Application Development with Cloud Run](https://www.coursera.org/learn/application-development-with-cloud-run)
+* ✏️+📦 [Pluralsight Course - Application Development with Cloud Run](https://www.pluralsight.com/courses/application-development-cloud-run)
+
 ### Interactive tutorials
 
 * ✏️ [Serverless quest on Google Cloud training](https://google.qwiklabs.com/quests/98)
 * ✏️ [Hello Cloud Run Codelab](https://codelabs.developers.google.com/codelabs/cloud-run-hello) (use your own GCP account)
 * ✏️ [Hello Cloud Run Qwiklab](https://www.qwiklabs.com/focuses/5162) (use temp Qwiklabs resources)
-* ✏️ [Application Development with Cloud Run](https://www.qwiklabs.com/course_templates/371) (use temp Qwiklabs resources)
 * ✏️ [Serverless Workshop Codelab](https://codelabs.developers.google.com/serverless-workshop/)
 
 ## Run popular languages and stacks
@@ -170,9 +175,6 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 
 * 📰+📦 [Step by step of many Cloud Run concepts](https://github.com/meteatamel/cloudrun-tutorial)
 * 🎬+📦 [Deploying a CI/CD Nuxt.js site in universal mode with Google Cloud Run and Cloud Build](https://youtu.be/WRIiZ6KkYL0)
-* ✏️+📦 [Qwiklabs Course - Application Development with Cloud Run](https://www.qwiklabs.com/course_templates/371)
-* ✏️+📦 [Coursera Course - Application Development with Cloud Run](https://www.coursera.org/learn/application-development-with-cloud-run)
-* ✏️+📦 [Pluralsight Course - Application Development with Cloud Run](https://www.pluralsight.com/courses/application-development-cloud-run)
 
 ### Private microservices
 
