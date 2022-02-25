@@ -83,7 +83,8 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📦 [Scala](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-scala)
 * 📦 [Clojure](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-clojure)
 * Dart
-  * 📦 [Dart](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-dart)
+  * 📦 [Dart](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-dart)
+  * 📦 [Samples](https://github.com/dart-lang/samples/tree/master/server)
   * 📰 [Dart is ready for FaaS with Cloud Run](https://medium.com/yakka/dart-is-ready-for-faas-with-cloud-run-fb069abb3176)
   * 🎬 [Go full-stack with Kotlin or Dart on Google Cloud](https://www.youtube.com/watch?v=JwCmu_INnCg)
 * Elixir: 
