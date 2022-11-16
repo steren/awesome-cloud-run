@@ -142,7 +142,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📰 [Ghost](https://parondeau.com/blog/self-hosting-ghost-gcp)
 * 📰 [React + Flask](https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project)
 * 📦 [Apache Superset](https://github.com/K12-Analytics-Engineering/superset)
-* 📰 [Server-side Google Tag Manager](https://github.com/sahava/sgtm-cloud-run-shell)
+* 📰 [Server-side Google Tag Manager](https://developers.google.com/tag-platform/tag-manager/server-side/cloud-run-setup-guide)
 * 📦 [Remix](https://github.com/puches/remix-cloudrun)
 
 ## Articles
