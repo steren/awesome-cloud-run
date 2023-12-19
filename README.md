@@ -52,8 +52,8 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📰 [Running a serverless Go web application](https://bartfokker.com/posts/cloud-run/)
   * 📦 [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
 * 📦 [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python)
-* Ruby
-  * 📦 [Ruby sample](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-ruby)
+* Ruby 
+  * 📦 [Ruby sample](https://github.com/knative/docs/tree/main/code-samples/serving/hello-world/helloworld-ruby)
   * 📙 [Running Rails on the Cloud Run](https://cloud.google.com/ruby/rails/run)
   * ✏️ [Ruby on Rails Cloud Run workshop/tutorial with CI/CD](https://github.com/jgunnink/latency-container-workshop)
 * 📦 PHP
