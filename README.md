@@ -167,6 +167,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
 * 📰 [5 compelling reasons to opt for serverless containers](https://geshan.com.np/blog/2019/11/why-use-google-cloud-run-5-compelling-reasons/)
 * 📰 Cloud Run vs. AWS Lambda: Is Cloud Run a Serverless Game Changer? [Part 1](https://iamondemand.com/blog/google-cloud-run-vs-aws-lambda-is-cloud-run-a-serverless-game-changer-part-1/), [Part 2](https://iamondemand.com/blog/google-cloud-run-vs-aws-lambda-performance-benchmarks-part-2/), [Part 3](https://iamondemand.com/blog/google-cloud-run-vs-aws-lambda-is-cloud-run-a-serverless-game-changer-part-3/)
 * 🎬 [Awesome Serverless using Google Cloud Run](https://www.youtube.com/playlist?list=PL5uLNcv9SibCId804-nYPqQT4-RNpbRdN)
+* [How to deploy a Django app to Google Cloud Run using Terraform](https://joshuamasiko.com/posts/django-on-cloud-run-terraform/)
 
 ## Podcast episodes
 
