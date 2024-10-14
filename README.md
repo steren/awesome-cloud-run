@@ -5,7 +5,7 @@
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.*
 
 <p align="center">
-<img src="google-cloud-run-hexagon.svg" width="256px">
+<img src="google-cloud-run-logo.svg" width="256px">
 </p>
 
 Short link to product page: https://cloud.run
