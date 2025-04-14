@@ -49,8 +49,7 @@ Cloud Run is on [Stackshare](https://stackshare.io/google-cloud-run) and [StackO
   * 📰 [Deno on Cloud Run](https://medium.com/google-cloud/deno-on-cloud-run-89ae64d1664d)
   * 📰 [Deploy a Dockerized Deno App to Google Cloud Run](https://scalablescripts.medium.com/how-to-deploy-a-dockerized-deno-app-to-google-cloud-run-96f233394a26)
 * Go
-  * 📰 [Running a serverless Go web application](https://bartfokker.com/posts/cloud-run/)
-  * 📦 [Go](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-go)
+  * 📦 [Cloud Run Primer in Go](https://github.com/begoon/cloudrun-primer)
 * 📦 [Python](https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-python)
 * Ruby 
   * 📦 [Ruby sample](https://github.com/knative/docs/tree/main/code-samples/serving/hello-world/helloworld-ruby)
